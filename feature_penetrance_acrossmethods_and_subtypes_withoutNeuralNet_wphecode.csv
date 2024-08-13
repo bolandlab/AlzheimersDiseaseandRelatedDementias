@@ -1,0 +1,1795 @@
+feature,num_methods_outof3_feature_important_AD,num_methods_outof3_feature_important_PD,num_methods_outof3_feature_important_Dementia,num_methods_outof9_finding_feature_important,PheCode,Phenotype
+Intestinal.infection,0,0,0,0,8,Intestinal infection
+Bacterial.enteritis,0,0,0,0,8.5,Bacterial enteritis
+Intestinal.e.coli,0,0,0,0,8.51,Intestinal e.coli
+Intestinal.infection.due.to.C..difficile,2,1,1,4,8.52,Intestinal infection due to C. difficile
+Viral.Enteritis,0,1,0,1,8.6,Viral Enteritis
+Intestinal.infection.due.to.protozoa,0,0,0,0,8.7,Intestinal infection due to protozoa
+Tuberculosis,2,0,0,2,10,Tuberculosis
+Diseases.due.to.other.mycobacteria,0,0,0,0,31,Diseases due to other mycobacteria
+Leprosy,0,0,0,0,31.1,Leprosy
+Septicemia,3,3,2,8,38,Septicemia
+Gram.negative.septicemia,0,1,1,2,38.1,Gram negative septicemia
+Gram.positive.septicemia,0,1,1,2,38.2,Gram positive septicemia
+Bacteremia,2,1,2,5,38.3,Bacteremia
+Bacterial.infection.NOS,2,3,3,8,41,Bacterial infection NOS
+Staphylococcus.infections,1,1,0,2,41.1,Staphylococcus infections
+Methicillin.sensitive.Staphylococcus.aureus,0,0,1,1,41.11,Methicillin sensitive Staphylococcus aureus
+Methicillin.resistant.Staphylococcus.aureus,0,0,1,1,41.12,Methicillin resistant Staphylococcus aureus
+Streptococcus.infection,1,3,2,6,41.2,Streptococcus infection
+Rheumatic.fever...chorea,0,0,0,0,41.21,Rheumatic fever / chorea
+E..coli,1,2,1,4,41.4,E. coli
+H..pylori,2,1,1,4,41.8,H. pylori
+Infection.with.drug.resistant.microorganisms,0,0,1,1,41.9,Infection with drug-resistant microorganisms
+Herpes.zoster,0,1,0,1,53,Herpes zoster
+Herpes.zoster.with.nervous.system.complications,0,0,1,1,53.1,Herpes zoster with nervous system complications
+Herpes.simplex,2,1,0,3,54,Herpes simplex
+Viral.hepatitis,0,0,0,0,70,Viral hepatitis
+Viral.hepatitis.A,0,0,0,0,70.1,Viral hepatitis A
+Viral.hepatitis.B,1,0,0,1,70.2,Viral hepatitis B
+Viral.hepatitis.C,3,2,0,5,70.3,Viral hepatitis C
+Chronic.hepatitis,1,0,2,3,70.4,Chronic hepatitis
+Hepatitis.NOS,2,1,0,3,70.9,Hepatitis NOS
+Human.immunodeficiency.virus..HIV..disease,1,1,1,3,71,Human immunodeficiency virus [HIV] disease
+HIV.infection..symptomatic,1,1,1,3,71.1,"HIV infection, symptomatic"
+Viral.warts...HPV,0,0,0,0,78,Viral warts & HPV
+Viral.infection,1,1,1,3,79,Viral infection
+Varicella.infection,0,0,0,0,79.1,Varicella infection
+Infectious.mononucleosis,0,0,0,0,79.2,Infectious mononucleosis
+Viremia..NOS,0,0,0,0,79.9,"Viremia, NOS"
+Postoperative.infection,1,0,2,3,80,Postoperative infection
+Infection.inflammation.of.internal.prosthetic.device..implant..and.graft,2,0,1,3,81,Infection/inflammation of internal prosthetic device; implant; and graft
+Graft.versus.host.disease,0,0,0,0,81.1,Graft-versus-host disease
+Acute.graft.versus.host.disease,0,0,0,0,81.11,Acute graft-versus-host disease
+Chronic.graft.versus.host.disease,0,0,0,0,81.12,Chronic graft-versus-host disease
+Sexually.transmitted.infections..not.HIV.or.hepatitis.,1,1,2,4,90,Sexually transmitted infections (not HIV or hepatitis)
+Gonococcal.infections,0,0,0,0,90.2,Gonococcal infections
+Venereal.diseases.due.to.Chlamydia.trachomatis,0,0,0,0,90.3,Venereal diseases due to Chlamydia trachomatis
+Dermatophytosis...Dermatomycosis,0,0,0,0,110,Dermatophytosis / Dermatomycosis
+Dermatophytosis,0,0,0,0,110.1,Dermatophytosis
+Dermatophytosis.of.nail,2,1,3,6,110.11,Dermatophytosis of nail
+Althete.s.foot,0,0,0,0,110.12,Althete's foot
+Dermatophytosis.of.the.body,0,0,0,0,110.13,Dermatophytosis of the body
+Dermatomycoses,1,0,0,1,110.2,Dermatomycoses
+Candidiasis,1,1,1,3,112,Candidiasis
+Candidiasis.of.skin.and.nails,0,1,0,1,112.3,Candidiasis of skin and nails
+Mycoses,0,1,0,1,117,Mycoses
+Histoplasmosis,0,0,0,0,117.1,Histoplasmosis
+Coccidioidomycosis,0,0,0,0,117.2,Coccidioidomycosis
+Blastomycotic.infection,0,0,0,0,117.3,Blastomycotic infection
+Aspergillosis,0,0,0,0,117.4,Aspergillosis
+Spirochetal.infection,0,2,2,4,130,Spirochetal infection
+Lyme.disease,0,2,2,4,130.1,Lyme disease
+Protozoan.infection,0,0,0,0,131,Protozoan infection
+Infestation..lice..mites.,0,0,0,0,132,"Infestation (lice, mites)"
+Pediculosis.and.phthirus.infestation,0,0,0,0,132.1,Pediculosis and phthirus infestation
+Arthropod.borne.diseases,0,0,0,0,133,Arthropod-borne diseases
+Helminthiases,0,0,0,0,134,Helminthiases
+Intestinal.helminthiases,0,0,0,0,134.1,Intestinal helminthiases
+Other.infectious.and.parasitic.diseases,0,0,0,0,136,Other infectious and parasitic diseases
+Cancer.of.mouth,2,0,0,2,145,Cancer of mouth
+Cancer.of.lip,0,0,0,0,145.1,Cancer of lip
+Cancer.of.tongue,0,0,0,0,145.2,Cancer of tongue
+Cancer.of.major.salivary.glands,2,2,0,4,145.3,Cancer of major salivary glands
+Cancer.of.the.gums,0,0,0,0,145.4,Cancer of the gums
+Cancer.of.the.mouth.floor,0,0,0,0,145.5,Cancer of the mouth floor
+Cancer.of.larynx..pharynx..nasal.cavities,0,0,0,0,149,"Cancer of larynx, pharynx, nasal cavities"
+Cancer.of.oropharynx,0,0,0,0,149.1,Cancer of oropharynx
+Cancer.of.nasopharynx,0,0,0,0,149.2,Cancer of nasopharynx
+Cancer.of.hypopharynx,1,1,0,2,149.3,Cancer of hypopharynx
+Cancer.of.larynx,0,2,0,2,149.4,Cancer of larynx
+Cancer.of.of.nasal.cavities,0,0,0,0,149.9,Cancer of of nasal cavities
+Cancer.of.esophagus,0,0,0,0,150,Cancer of esophagus
+Cancer.of.stomach,0,0,0,0,151,Cancer of stomach
+Colorectal.cancer,0,0,0,0,153,Colorectal cancer
+Colon.cancer,0,0,0,0,153.2,Colon cancer
+Malignant.neoplasm.of.rectum..rectosigmoid.junction..and.anus,0,0,0,0,153.3,"Malignant neoplasm of rectum, rectosigmoid junction, and anus"
+Cancer.of.liver.and.intrahepatic.bile.duct,0,0,0,0,155,Cancer of liver and intrahepatic bile duct
+Malignant.neoplasm.of.liver..primary,1,0,0,1,155.1,"Malignant neoplasm of liver, primary"
+Pancreatic.cancer,0,0,0,0,157,Pancreatic cancer
+Neoplasm.of.unspecified.nature.of.digestive.system,0,0,0,0,158,Neoplasm of unspecified nature of digestive system
+Malignant.neoplasm.of.other.and.ill.defined.sites.within.the.digestive.organs.and.peritoneum,0,0,0,0,159,Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum
+Malignant.neoplasm.of.small.intestine..including.duodenum,0,0,0,0,159.2,"Malignant neoplasm of small intestine, including duodenum"
+Malignant.neoplasm.of.gallbladder.and.extrahepatic.bile.ducts,0,0,0,0,159.3,Malignant neoplasm of gallbladder and extrahepatic bile ducts
+Malignant.neoplasm.of.retroperitoneum.and.peritoneum,0,0,0,0,159.4,Malignant neoplasm of retroperitoneum and peritoneum
+Cancer.of.intrathoracic.organs,0,0,0,0,164,Cancer of intrathoracic organs
+Cancer.within.the.respiratory.system,1,2,2,5,165,Cancer within the respiratory system
+Cancer.of.bronchus..lung,0,1,3,4,165.1,Cancer of bronchus; lung
+Bone.cancer,0,0,0,0,170.1,Bone cancer
+Cancer.of.connective.tissue,0,0,0,0,170.2,Cancer of connective tissue
+Skin.cancer,0,0,0,0,172,Skin cancer
+Melanomas.of.skin,0,3,1,4,172.11,Melanomas of skin
+Other.non.epithelial.cancer.of.skin,0,0,2,2,172.2,Other non-epithelial cancer of skin
+Basal.cell.carcinoma,2,1,1,4,172.21,Basal cell carcinoma
+Squamous.cell.carcinoma,0,0,2,2,172.22,Squamous cell carcinoma
+Carcinoma.in.situ.of.skin,0,2,3,5,172.3,Carcinoma in situ of skin
+Neoplasm.of.uncertain.behavior.of.skin,0,3,1,4,173,Neoplasm of uncertain behavior of skin
+Breast.cancer,0,0,0,0,174,Breast cancer
+Breast.cancer..female.,0,0,0,0,174.1,Breast cancer [female]
+Malignant.neoplasm.of.female.breast,1,3,3,7,174.11,Malignant neoplasm of female breast
+Breast.cancer..male.,0,0,0,0,174.2,Breast cancer [male]
+Neoplasm.of.uncertain.behavior.of.breast,0,0,0,0,174.3,Neoplasm of uncertain behavior of breast
+Acquired.absence.of.breast,0,0,0,0,175,Acquired absence of breast
+Cervical.cancer.and.dysplasia,0,0,0,0,180,Cervical cancer and dysplasia
+Cervical.cancer,0,0,0,0,180.1,Cervical cancer
+Cervical.intraepithelial.neoplasia..CIN...Cervical.dysplasia.,0,0,0,0,180.3,Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]
+Malignant.neoplasm.of.uterus,0,1,0,1,182,Malignant neoplasm of uterus
+Cancer.of.other.female.genital.organs,0,0,0,0,184,Cancer of other female genital organs
+Malignant.neoplasm.of.ovary.and.other.uterine.adnexa,0,0,0,0,184.1,Malignant neoplasm of ovary and other uterine adnexa
+Malignant.neoplasm.of.ovary,0,0,0,0,184.11,Malignant neoplasm of ovary
+Cancer.of.other.female.genital.organs..excluding.uterus.and.ovary,0,0,0,0,184.2,"Cancer of other female genital organs, excluding uterus and ovary"
+Cancer.of.prostate,2,3,2,7,185,Cancer of prostate
+Cancer.of.other.male.genital.organs,0,0,0,0,187,Cancer of other male genital organs
+Malignant.neoplasm.of.unspecified.male.genital.organ,0,0,0,0,187.1,Malignant neoplasm of unspecified male genital organ
+Malignant.neoplasm.of.testis,2,0,0,2,187.2,Malignant neoplasm of testis
+Neoplasm.of.uncertain.behavior.of.male.genital.organs,0,0,0,0,187.8,Neoplasm of uncertain behavior of male genital organs
+Cancer.of.urinary.organs..incl..kidney.and.bladder.,0,0,0,0,189,Cancer of urinary organs (incl. kidney and bladder)
+Malignant.neoplasm.of.kidney..except.pelvis,2,0,1,3,189.11,"Malignant neoplasm of kidney, except pelvis"
+Malignant.neoplasm.of.renal.pelvis,0,0,0,0,189.12,Malignant neoplasm of renal pelvis
+Cancer.of.bladder,0,0,0,0,189.2,Cancer of bladder
+Malignant.neoplasm.of.bladder,0,1,0,1,189.21,Malignant neoplasm of bladder
+Malignant.neoplasm.of.other.urinary.organs,0,0,0,0,189.4,Malignant neoplasm of other urinary organs
+Cancer.of.eye,0,0,0,0,190,Cancer of eye
+Manlignant.and.unknown.neoplasms.of.brain.and.nervous.system,1,0,0,1,191,Manlignant and unknown neoplasms of brain and nervous system
+Cancer.of.brain.and.nervous.system,0,0,0,0,191.1,Cancer of brain and nervous system
+Cancer.of.brain,3,3,0,6,191.11,Cancer of brain
+Thyroid.cancer,0,0,0,0,193,Thyroid cancer
+Cancer.of.other.endocrine.glands,0,0,0,0,194,Cancer of other endocrine glands
+Cancer..suspected.or.other,0,0,0,0,195,"Cancer, suspected or other"
+Malignant.neoplasm..other,2,1,3,6,195.1,"Malignant neoplasm, other"
+Malignant.neoplasm.of.head..face..and.neck,0,0,0,0,195.3,"Malignant neoplasm of head, face, and neck"
+Secondary.malignant.neoplasm,0,0,1,1,198,Secondary malignant neoplasm
+Secondary.malignancy.of.lymph.nodes,1,2,0,3,198.1,Secondary malignancy of lymph nodes
+Secondary.malignancy.of.respiratory.organs,0,0,1,1,198.2,Secondary malignancy of respiratory organs
+Secondary.malignant.neoplasm.of.digestive.systems,0,0,0,0,198.3,Secondary malignant neoplasm of digestive systems
+Secondary.malignant.neoplasm.of.liver,0,3,0,3,198.4,Secondary malignant neoplasm of liver
+Secondary.malignancy.of.brain.spine,0,0,3,3,198.5,Secondary malignancy of brain/spine
+Secondary.malignancy.of.bone,2,2,1,5,198.6,Secondary malignancy of bone
+Secondary.malignant.neoplasm.of.skin,0,0,0,0,198.7,Secondary malignant neoplasm of skin
+Neoplasm.of.uncertain.behavior,2,0,0,2,199,Neoplasm of uncertain behavior
+Neurofibromatosis,0,0,0,0,199.4,Neurofibromatosis
+Myeloproliferative.disease,3,3,0,6,200,Myeloproliferative disease
+Polycythemia.vera,0,0,0,0,200.1,Polycythemia vera
+Hodgkin.s.disease,0,0,0,0,201,Hodgkin's disease
+Cancer.of.other.lymphoid..histiocytic.tissue,0,0,0,0,202,"Cancer of other lymphoid, histiocytic tissue"
+Non.Hodgkins.lymphoma,0,0,1,1,202.2,Non-Hodgkins lymphoma
+Nodular.lymphoma,0,0,0,0,202.21,Nodular lymphoma
+Reticulosarcoma,0,0,0,0,202.22,Reticulosarcoma
+Lymphosarcoma,0,0,0,0,202.23,Lymphosarcoma
+Large.cell.lymphoma,2,2,2,6,202.24,Large cell lymphoma
+Leukemia,0,0,0,0,204,Leukemia
+Lymphoid.leukemia,0,0,0,0,204.1,Lymphoid leukemia
+Lymphoid.leukemia..acute,0,0,0,0,204.11,"Lymphoid leukemia, acute"
+Lymphoid.leukemia..chronic,0,0,0,0,204.12,"Lymphoid leukemia, chronic"
+Myeloid.leukemia,0,0,0,0,204.2,Myeloid leukemia
+Myeloid.leukemia..acute,0,0,0,0,204.21,"Myeloid leukemia, acute"
+Myeloid.leukemia..chronic,0,0,0,0,204.22,"Myeloid leukemia, chronic"
+Monocytic.leukemia,0,0,0,0,204.3,Monocytic leukemia
+Multiple.myeloma,0,0,1,1,204.4,Multiple myeloma
+Benign.neoplasm.of.colon,3,3,3,9,208,Benign neoplasm of colon
+Neuroendocrine.tumors,0,0,0,0,209,Neuroendocrine tumors
+Benign.neoplasm.of.lip..oral.cavity..and.pharynx,0,0,0,0,210,"Benign neoplasm of lip, oral cavity, and pharynx"
+Benign.neoplasm.of.other.parts.of.digestive.system,3,0,0,3,211,Benign neoplasm of other parts of digestive system
+Benign.neoplasm.of.respiratory.and.intrathoracic.organs,0,0,0,0,212,Benign neoplasm of respiratory and intrathoracic organs
+Benign.neoplasm.of.bone.and.articular.cartilage,0,0,0,0,213,Benign neoplasm of bone and articular cartilage
+Lipoma,0,0,0,0,214,Lipoma
+Lipoma.of.skin.and.subcutaneous.tissue,0,0,0,0,214.1,Lipoma of skin and subcutaneous tissue
+Other.benign.neoplasm.of.connective.and.other.soft.tissue,2,0,0,2,215,Other benign neoplasm of connective and other soft tissue
+Benign.neoplasm.of.skin,0,2,3,5,216,Benign neoplasm of skin
+Vascular.hamartomas.and.non.neoplastic.nevi,0,0,0,0,217,Vascular hamartomas and non-neoplastic nevi
+Nevus..non.neoplastic,0,0,1,1,217.1,"Nevus, non-neoplastic"
+Uterine.leiomyoma,0,1,0,1,218.1,Uterine leiomyoma
+Other.benign.neoplasm.of.uterus,0,0,0,0,218.2,Other benign neoplasm of uterus
+Benign.neoplasm.of.ovary,0,0,0,0,220,Benign neoplasm of ovary
+Benign.neoplasm.of.other.female.genital.organs,0,0,0,0,221,Benign neoplasm of other female genital organs
+Benign.neoplasm.of.male.genital.organs,0,0,0,0,222,Benign neoplasm of male genital organs
+Benign.neoplasm.of.kidney.and.other.urinary.organs,0,0,0,0,223,Benign neoplasm of kidney and other urinary organs
+Benign.neoplasm.of.eye,0,0,0,0,224,Benign neoplasm of eye
+Benign.neoplasm.of.eye..uveal,0,0,0,0,224.1,"Benign neoplasm of eye, uveal"
+Benign.neoplasm.of.brain.and.other.parts.of.nervous.system,0,0,0,0,225,Benign neoplasm of brain and other parts of nervous system
+Benign.neoplasm.of.brain..cranial.nerves..meninges,0,0,0,0,225.1,"Benign neoplasm of brain, cranial nerves, meninges"
+Benign.neoplasm.of.spinal.cord..meninges,0,0,0,0,225.2,"Benign neoplasm of spinal cord, meninges"
+Benign.neoplasm.of.thyroid.glands,0,0,0,0,226,Benign neoplasm of thyroid glands
+Benign.neoplasm.of.other.endocrine.glands.and.related.structures,0,0,0,0,227,Benign neoplasm of other endocrine glands and related structures
+Benign.neoplasm.of.adrenal.gland,0,0,0,0,227.1,Benign neoplasm of adrenal gland
+Benign.neoplasm.of.parathyroid.gland,0,0,0,0,227.2,Benign neoplasm of parathyroid gland
+Benign.neoplasm.of.pituitary.gland.and.craniopharyngeal.duct..pouch.,0,0,0,0,227.3,Benign neoplasm of pituitary gland and craniopharyngeal duct (pouch)
+Hemangioma.and.lymphangioma..any.site,0,0,0,0,228,"Hemangioma and lymphangioma, any site"
+Hemangioma.of.skin.and.subcutaneous.tissue,0,0,0,0,228.1,Hemangioma of skin and subcutaneous tissue
+Benign.neoplasm.of.unspecified.sites,2,0,0,2,229,Benign neoplasm of unspecified sites
+Benign.neoplasm.of.lymph.nodes,0,0,0,0,229.1,Benign neoplasm of lymph nodes
+Kaposi.s.sarcoma,0,0,0,0,230,Kaposi's sarcoma
+Simple.and.unspecified.goiter,1,1,0,2,240,Simple and unspecified goiter
+Nontoxic.nodular.goiter,0,2,0,2,241,Nontoxic nodular goiter
+Nontoxic.uninodular.goiter,3,1,3,7,241.1,Nontoxic uninodular goiter
+Nontoxic.multinodular.goiter,2,3,1,6,241.2,Nontoxic multinodular goiter
+Thyrotoxicosis.with.or.without.goiter,0,2,3,5,242,Thyrotoxicosis with or without goiter
+Graves..disease,0,0,0,0,242.1,Graves' disease
+Toxic.multinodular.goiter,0,0,0,0,242.2,Toxic multinodular goiter
+Exophthalmos,0,0,0,0,242.3,Exophthalmos
+Thyrotoxic.exophthalmos,0,0,0,0,242.31,Thyrotoxic exophthalmos
+Hypothyroidism,0,0,0,0,244,Hypothyroidism
+Secondary.hypothyroidism,0,1,0,1,244.1,Secondary hypothyroidism
+Acquired.hypothyroidism,0,3,3,6,244.2,Acquired hypothyroidism
+Iodine.hypothyroidism,0,0,0,0,244.3,Iodine hypothyroidism
+Hypothyroidism.NOS,2,2,2,6,244.4,Hypothyroidism NOS
+Congenital.hypothyroidism,0,0,0,0,244.5,Congenital hypothyroidism
+Thyroiditis,0,0,0,0,245,Thyroiditis
+Thyroiditis..acute.and.subacute,0,0,0,0,245.1,"Thyroiditis, acute and subacute"
+Chronic.thyroiditis,2,0,0,2,245.2,Chronic thyroiditis
+Chronic.lymphocytic.thyroiditis,0,0,1,1,245.21,Chronic lymphocytic thyroiditis
+Other.disorders.of.thyroid,2,2,2,6,246,Other disorders of thyroid
+Thyroid.cyst,0,0,0,0,246.2,Thyroid cyst
+Abnormal.results.of.function.study.of.thyroid,0,1,0,1,246.7,Abnormal results of function study of thyroid
+Secondary.diabetes.mellitus,0,1,0,1,249,Secondary diabetes mellitus
+Diabetes.mellitus,2,1,3,6,250,Diabetes mellitus
+Type.1.diabetes,2,3,1,6,250.1,Type 1 diabetes
+Type.1.diabetes.with.ketoacidosis,0,0,0,0,250.11,Type 1 diabetes with ketoacidosis
+Type.1.diabetes.with.renal.manifestations,0,0,0,0,250.12,Type 1 diabetes with renal manifestations
+Type.1.diabetes.with.ophthalmic.manifestations,0,0,0,0,250.13,Type 1 diabetes with ophthalmic manifestations
+Type.1.diabetes.with.neurological.manifestations,0,0,0,0,250.14,Type 1 diabetes with neurological manifestations
+Diabetes.type.1.with.peripheral.circulatory.disorders,0,0,0,0,250.15,Diabetes type 1 with peripheral circulatory disorders
+Type.2.diabetes,3,3,1,7,250.2,Type 2 diabetes
+Type.2.diabetes.with.ketoacidosis,0,0,1,1,250.21,Type 2 diabetes with ketoacidosis
+Type.2.diabetes.with.renal.manifestations,1,1,1,3,250.22,Type 2 diabetes with renal manifestations
+Type.2.diabetes.with.ophthalmic.manifestations,0,1,1,2,250.23,Type 2 diabetes with ophthalmic manifestations
+Type.2.diabetes.with.neurological.manifestations,3,1,1,5,250.24,Type 2 diabetes with neurological manifestations
+Diabetes.type.2.with.peripheral.circulatory.disorders,0,1,1,2,250.25,Diabetes type 2 with peripheral circulatory disorders
+Abnormal.glucose,0,0,0,0,250.4,Abnormal glucose
+Impaired.fasting.glucose,2,0,0,2,250.41,Impaired fasting glucose
+Other.abnormal.glucose,1,3,3,7,250.42,Other abnormal glucose
+Glycosuria.or.Acetonuria,0,0,0,0,250.5,Glycosuria or Acetonuria
+Polyneuropathy.in.diabetes,3,1,1,5,250.6,Polyneuropathy in diabetes
+Diabetic.retinopathy,2,1,1,4,250.7,Diabetic retinopathy
+Other.disorders.of.pancreatic.internal.secretion,0,0,0,0,251,Other disorders of pancreatic internal secretion
+Hypoglycemia,1,2,2,5,251.1,Hypoglycemia
+Abnormality.of.secretion.of.glucagon.or.gastrin,2,1,0,3,251.8,Abnormality of secretion of glucagon or gastrin
+Disorders.of.parathyroid.gland,0,0,0,0,252,Disorders of parathyroid gland
+Hyperparathyroidism,2,1,0,3,252.1,Hyperparathyroidism
+Hypoparathyroidism,0,0,0,0,252.2,Hypoparathyroidism
+Disorders.of.the.pituitary.gland.and.its.hypothalamic.control,0,0,0,0,253,Disorders of the pituitary gland and its hypothalamic control
+Pituitary.hyperfunction,0,0,0,0,253.1,Pituitary hyperfunction
+Acromegaly.and.gigantism,0,0,0,0,253.11,Acromegaly and gigantism
+Pituitary.hypofunction,0,0,0,0,253.2,Pituitary hypofunction
+Diabetes.insipidus,0,0,0,0,253.3,Diabetes insipidus
+Anterior.pituitary.disorders,0,0,0,0,253.4,Anterior pituitary disorders
+Other.disorders.of.neurohypophysis,3,1,1,5,253.7,Other disorders of neurohypophysis
+Diseases.of.thymus.gland,0,0,0,0,254,Diseases of thymus gland
+Disorders.of.adrenal.glands,2,1,0,3,255,Disorders of adrenal glands
+Adrenal.hyperfunction,0,0,0,0,255.1,Adrenal hyperfunction
+Cushing.s.syndrome,0,0,0,0,255.11,Cushing's syndrome
+Hyperaldosteronism,0,0,0,0,255.12,Hyperaldosteronism
+Medulloadrenal.hyperfunction,0,0,0,0,255.13,Medulloadrenal hyperfunction
+Adrenal.hypofunction,0,0,0,0,255.2,Adrenal hypofunction
+Glucocorticoid.deficiency,0,0,3,3,255.21,Glucocorticoid deficiency
+Mineralocorticoid.deficiency,0,0,0,0,255.22,Mineralocorticoid deficiency
+Adrenogenital.disorders,0,0,0,0,255.3,Adrenogenital disorders
+Ovarian.dysfunction,0,0,0,0,256,Ovarian dysfunction
+Hyperestrogenism,0,0,0,0,256.1,Hyperestrogenism
+Polycystic.ovaries,0,0,0,0,256.4,Polycystic ovaries
+Testicular.dysfunction,0,0,0,0,257,Testicular dysfunction
+Testicular.hypofunction,0,0,1,1,257.1,Testicular hypofunction
+Iatrogenic.endocrine.disorders,0,0,0,0,258,Iatrogenic endocrine disorders
+Postablative.ovarian.failure,0,0,0,0,258.1,Postablative ovarian failure
+Other.endocrine.disorders,0,0,0,0,259,Other endocrine disorders
+Nonspecific.abnormal.results.of.other.endocrine.function.study,0,0,0,0,259.1,Nonspecific abnormal results of other endocrine function study
+Carcinoid.syndrome,0,0,0,0,259.2,Carcinoid syndrome
+Polyglandular.activity.in.multiple.endocrine.adenomatosis,0,0,0,0,259.8,Polyglandular activity in multiple endocrine adenomatosis
+Protein.calorie.malnutrition,3,3,3,9,260,Protein-calorie malnutrition
+Cachexia,3,2,3,8,260.1,Cachexia
+severe.protein.calorie.malnutrition,2,1,3,6,260.2,severe protein-calorie malnutrition
+Kwashiorkor,0,0,0,0,260.21,Kwashiorkor
+Nutritional.marasmus,0,1,1,2,260.22,Nutritional marasmus
+Adult.failure.to.thrive,3,2,3,8,260.3,Adult failure to thrive
+Anorexia,2,2,1,5,260.6,Anorexia
+Vitamin.deficiency,0,0,0,0,261,Vitamin deficiency
+Vitamin.A.deficiency,0,0,0,0,261.1,Vitamin A deficiency
+Vitamin.B.complex.deficiencies,3,3,3,9,261.2,Vitamin B-complex deficiencies
+Vitamin.C.deficiencies,0,0,0,0,261.3,Vitamin C deficiencies
+Vitamin.D.deficiency,0,2,0,2,261.4,Vitamin D deficiency
+Rickets.or.osteomalacia,0,0,0,0,261.41,Rickets or osteomalacia
+Mineral.deficiency.NEC,0,0,1,1,262,Mineral deficiency NEC
+Other.nutritional.deficiency,3,2,2,7,263,Other nutritional deficiency
+Lack.of.normal.physiological.development,0,0,0,0,264,Lack of normal physiological development
+Short.stature,0,0,0,0,264.1,Short stature
+Failure.to.thrive..childhood.,1,0,1,2,264.2,Failure to thrive (childhood)
+Delayed.milestones,0,0,0,0,264.3,Delayed milestones
+Lack.of.normal.physiological.development..unspecified,0,0,0,0,264.9,"Lack of normal physiological development, unspecified"
+Proteinuria,3,2,2,7,269,Proteinuria
+Disturbances.of.amino.acid.transport,0,0,0,0,270.1,Disturbances of amino-acid transport
+Disturbances.of.sulphur.bearing.amino.acid.metabolism,0,0,0,0,270.11,Disturbances of sulphur-bearing amino-acid metabolism
+Phenylketonuria..PKU.,0,0,0,0,270.12,Phenylketonuria [PKU]
+Disorders.of.amino.acid.metabolism,0,0,0,0,270.2,Disorders of amino-acid metabolism
+Disorders.of.urea.cycle.metabolism,0,0,1,1,270.21,Disorders of urea cycle metabolism
+Disorders.of.plasma.protein.metabolism,0,0,0,0,270.3,Disorders of plasma protein metabolism
+Polyclonal.hypergammaglobulinemia,0,0,0,0,270.31,Polyclonal hypergammaglobulinemia
+Paraproteinemia,0,0,1,1,270.32,Paraproteinemia
+Amyloidosis,3,2,0,5,270.33,Amyloidosis
+Alpha.1.antitrypsin.deficiency,0,0,0,0,270.34,Alpha-1-antitrypsin deficiency
+Macroglobulinemia,0,0,0,0,270.35,Macroglobulinemia
+Other.specified.disorders.of.plasma.protein.metabolism,0,0,1,1,270.38,Other specified disorders of plasma protein metabolism
+Disorders.of.carbohydrate.transport.and.metabolism,0,0,0,0,271,Disorders of carbohydrate transport and metabolism
+Intestinal.disaccharidase.deficiencies.and.disaccharide.malabsorption,0,0,0,0,271.3,Intestinal disaccharidase deficiencies and disaccharide malabsorption
+Other.disorders.of.carbohydrate.transport.and.metabolism,0,0,0,0,271.9,Other disorders of carbohydrate transport and metabolism
+Disorders.of.lipoid.metabolism,0,0,0,0,272,Disorders of lipoid metabolism
+Hyperlipidemia,3,3,3,9,272.1,Hyperlipidemia
+Hypercholesterolemia,3,3,3,9,272.11,Hypercholesterolemia
+Hyperglyceridemia,2,0,0,2,272.12,Hyperglyceridemia
+Mixed.hyperlipidemia,2,3,3,8,272.13,Mixed hyperlipidemia
+Hyperchylomicronemia,0,0,0,0,272.14,Hyperchylomicronemia
+Unspecified.disorder.of.lipoid.metabolism,2,0,0,2,272.9,Unspecified disorder of lipoid metabolism
+Gout.and.other.crystal.arthropathies,0,0,0,0,274,Gout and other crystal arthropathies
+Gout,1,3,3,7,274.1,Gout
+Gouty.arthropathy,0,1,1,2,274.11,Gouty arthropathy
+Crystal.arthropathies,0,0,0,0,274.2,Crystal arthropathies
+Chondrocalcinosis,0,3,3,6,274.21,Chondrocalcinosis
+Disorders.of.mineral.metabolism,2,1,0,3,275,Disorders of mineral metabolism
+Disorders.of.iron.metabolism,0,0,0,0,275.1,Disorders of iron metabolism
+Hereditary.hemochromatosis,0,0,0,0,275.11,Hereditary hemochromatosis
+Disorders.of.copper.metabolism,0,0,0,0,275.2,Disorders of copper metabolism
+Disorders.of.magnesium.metabolism,3,3,2,8,275.3,Disorders of magnesium metabolism
+Disorders.of.calcium.phosphorus.metabolism,0,1,1,2,275.5,Disorders of calcium/phosphorus metabolism
+Hypocalcemia,2,3,1,6,275.51,Hypocalcemia
+Disorders.of.phosphorus.metabolism,2,2,1,5,275.53,Disorders of phosphorus metabolism
+Hypercalcemia,0,1,1,2,275.6,Hypercalcemia
+Electrolyte.imbalance,3,1,2,6,276.1,Electrolyte imbalance
+Hyperosmolality.and.or.hypernatremia,2,1,2,5,276.11,Hyperosmolality and/or hypernatremia
+Hyposmolality.and.or.hyponatremia,3,3,2,8,276.12,Hyposmolality and/or hyponatremia
+Hyperpotassemia,3,3,2,8,276.13,Hyperpotassemia
+Hypopotassemia,3,2,2,7,276.14,Hypopotassemia
+Acid.base.balance.disorder,2,1,1,4,276.4,Acid-base balance disorder
+Acidosis,3,3,2,8,276.41,Acidosis
+Alkalosis,3,2,0,5,276.42,Alkalosis
+Hypovolemia,3,1,2,6,276.5,Hypovolemia
+Fluid.overload,1,1,2,4,276.6,Fluid overload
+Polydipsia,0,0,0,0,276.8,Polydipsia
+Other.disorders.of.metabolism,3,3,3,9,277,Other disorders of metabolism
+Disorders.of.porphyrin.metabolism,0,0,0,0,277.1,Disorders of porphyrin metabolism
+Other.disorders.of.purine.and.pyrimidine.metabolism,0,0,0,0,277.2,Other disorders of purine and pyrimidine metabolism
+Disorders.of.bilirubin.excretion,1,1,1,3,277.4,Disorders of bilirubin excretion
+Other.disorders.of.lipoid.metabolism,0,0,0,0,277.5,Other disorders of lipoid metabolism
+Lipoprotein.disorders,1,0,2,3,277.51,Lipoprotein disorders
+Other.deficiencies.of.circulating.enzymes,0,0,0,0,277.6,Other deficiencies of circulating enzymes
+Dysmetabolic.syndrome.X,1,0,0,1,277.7,Dysmetabolic syndrome X
+Overweight..obesity.and.other.hyperalimentation,0,0,0,0,278,"Overweight, obesity and other hyperalimentation"
+Obesity,3,3,3,9,278.1,Obesity
+Morbid.obesity,2,1,2,5,278.11,Morbid obesity
+Localized.adiposity,0,0,0,0,278.3,Localized adiposity
+Disorders.involving.the.immune.mechanism,1,3,2,6,279,Disorders involving the immune mechanism
+Immunity.deficiency,1,3,2,6,279.1,Immunity deficiency
+Deficiency.of.humoral.immunity,1,0,1,2,279.11,Deficiency of humoral immunity
+Autoimmune.disease.NEC,0,0,2,2,279.2,Autoimmune disease NEC
+Other.immunological.findings,0,0,2,2,279.7,Other immunological findings
+Other.specified.disorders.involving.the.immune.mechanism,0,0,0,0,279.8,Other specified disorders involving the immune mechanism
+Iron.deficiency.anemias,0,0,0,0,280,Iron deficiency anemias
+Iron.deficiency.anemias..unspecified.or.not.due.to.blood.loss,3,3,2,8,280.1,"Iron deficiency anemias, unspecified or not due to blood loss"
+Iron.deficiency.anemia.secondary.to.blood.loss..chronic.,2,2,3,7,280.2,Iron deficiency anemia secondary to blood loss (chronic)
+Other.deficiency.anemia,0,0,0,0,281,Other deficiency anemia
+Megaloblastic.anemia,1,0,0,1,281.1,Megaloblastic anemia
+Pernicious.anemia,0,3,2,5,281.11,Pernicious anemia
+Other.vitamin.B12.deficiency.anemia,2,1,0,3,281.12,Other vitamin B12 deficiency anemia
+Folate.deficiency.anemia,0,0,1,1,281.13,Folate-deficiency anemia
+Deficiency.anemias,2,1,0,3,281.9,Deficiency anemias
+Sickle.cell.anemia,0,0,0,0,282.5,Sickle cell anemia
+Other.hemoglobinopathies,0,0,0,0,282.8,Other hemoglobinopathies
+Other.hereditary.hemolytic.anemias,0,0,0,0,282.9,Other hereditary hemolytic anemias
+Acquired.hemolytic.anemias,2,0,2,4,283,Acquired hemolytic anemias
+Autoimmune.hemolytic.anemias,1,2,0,3,283.1,Autoimmune hemolytic anemias
+Non.autoimmune.hemolytic.anemias,0,0,0,0,283.2,Non-autoimmune hemolytic anemias
+Hemolytic.uremic.syndrome,0,0,0,0,283.21,Hemolytic-uremic syndrome
+Aplastic.anemia,0,0,0,0,284,Aplastic anemia
+Pancytopenia,1,1,1,3,284.1,Pancytopenia
+Constitutional.aplastic.anemia,0,0,0,0,284.2,Constitutional aplastic anemia
+Other.anemias,3,3,2,8,285,Other anemias
+Acute.posthemorrhagic.anemia,1,1,2,4,285.1,Acute posthemorrhagic anemia
+Anemia.of.chronic.disease,3,1,1,5,285.2,Anemia of chronic disease
+Anemia.in.chronic.kidney.disease,1,1,1,3,285.21,Anemia in chronic kidney disease
+Anemia.in.neoplastic.disease,2,2,1,5,285.22,Anemia in neoplastic disease
+Sideroblastic.anemia,0,0,0,0,285.3,Sideroblastic anemia
+Hemoglobinuria,0,0,0,0,285.8,Hemoglobinuria
+Congenital.coagulation.defects,0,0,0,0,286.1,Congenital coagulation defects
+Von.willebrand.s.disease,0,0,0,0,286.11,Von willebrand's disease
+Congenital.deficiency.of.other.clotting.factors..including.factor.VII.,0,0,0,0,286.12,Congenital deficiency of other clotting factors (including factor VII)
+Congenital.factor.VIII.disorder,0,0,0,0,286.13,Congenital factor VIII disorder
+Coagulation.defects.complicating.pregnancy.or.postpartum,0,0,0,0,286.3,Coagulation defects complicating pregnancy or postpartum
+Acquired.coagulation.factor.deficiency,1,1,0,2,286.4,Acquired coagulation factor deficiency
+Hemorrhagic.disorder.due.to.intrinsic.circulating.anticoagulants,0,0,0,0,286.5,Hemorrhagic disorder due to intrinsic circulating anticoagulants
+Defibrination.syndrome,0,1,0,1,286.6,Defibrination syndrome
+Other.and.unspecified.coagulation.defects,3,2,1,6,286.7,Other and unspecified coagulation defects
+Hypercoagulable.state,0,0,0,0,286.8,Hypercoagulable state
+Primary.hypercoagulable.state,0,0,0,0,286.81,Primary hypercoagulable state
+Abnormal.coagulation.profile,0,1,1,2,286.9,Abnormal coagulation profile
+Purpura.and.other.hemorrhagic.conditions,0,0,2,2,287,Purpura and other hemorrhagic conditions
+Spontaneous.ecchymoses,0,0,0,0,287.1,Spontaneous ecchymoses
+Allergic.purpura,0,0,0,0,287.2,Allergic purpura
+Thrombocytopenia,1,3,3,7,287.3,Thrombocytopenia
+Primary.thrombocytopenia,0,0,0,0,287.31,Primary thrombocytopenia
+Secondary.thrombocytopenia,1,0,2,3,287.32,Secondary thrombocytopenia
+Qualitative.platelet.defects,0,0,0,0,287.4,Qualitative platelet defects
+Diseases.of.white.blood.cells,0,1,0,1,288,Diseases of white blood cells
+Decreased.white.blood.cell.count,0,0,1,1,288.1,Decreased white blood cell count
+Neutropenia,2,0,3,5,288.11,Neutropenia
+Elevated.white.blood.cell.count,2,1,3,6,288.2,Elevated white blood cell count
+Eosinophilia,0,0,0,0,288.3,Eosinophilia
+Other.diseases.of.blood.and.blood.forming.organs,0,3,0,3,289,Other diseases of blood and blood-forming organs
+Myelofibrosis,0,0,0,0,289.1,Myelofibrosis
+Lymphadenitis,3,3,2,8,289.4,Lymphadenitis
+Diseases.of.spleen,1,0,0,1,289.5,Diseases of spleen
+Polycythemia.vera..secondary,0,0,1,1,289.8,"Polycythemia vera, secondary"
+Abnormality.of.red.blood.cells,0,0,1,1,289.9,Abnormality of red blood cells
+Delirium.dementia.and.amnestic.and.other.cognitive.disorders,3,3,3,9,290,Delirium dementia and amnestic and other cognitive disorders
+Dementia.with.cerebral.degenerations,2,3,3,8,290.12,Dementia with cerebral degenerations
+Senile.dementia,3,3,3,9,290.13,Senile dementia
+Vascular.dementia,3,3,3,9,290.16,Vascular dementia
+Delirium.due.to.conditions.classified.elsewhere,0,1,1,2,290.2,Delirium due to conditions classified elsewhere
+Other.persistent.mental.disorders.due.to.conditions.classified.elsewhere,3,3,3,9,290.3,Other persistent mental disorders due to conditions classified elsewhere
+Transient.mental.disorders.due.to.conditions.classified.elsewhere,0,0,0,0,291.1,Transient mental disorders due to conditions classified elsewhere
+Specific.nonpsychotic.mental.disorders.due.to.brain.damage,0,0,1,1,291.4,Specific nonpsychotic mental disorders due to brain damage
+Alteration.of.consciousness,2,3,3,8,291.8,Alteration of consciousness
+Neurological.disorders,0,0,1,1,292,Neurological disorders
+Aphasia.speech.disturbance,3,2,3,8,292.1,Aphasia/speech disturbance
+Aphasia,0,3,3,6,292.11,Aphasia
+Symbolic.dysfunction,0,0,0,0,292.12,Symbolic dysfunction
+Mild.cognitive.impairment,3,3,3,9,292.2,Mild cognitive impairment
+Memory.loss,3,3,2,8,292.3,Memory loss
+Altered.mental.status,2,3,3,8,292.4,Altered mental status
+Transient.alteration.of.awareness,0,0,1,1,292.5,Transient alteration of awareness
+Hallucinations,2,3,0,5,292.6,Hallucinations
+Symptoms.involving.head.and.neck,0,0,1,1,293,Symptoms involving head and neck
+Swelling..mass..or.lump.in.head.and.neck..Space.occupying.lesion..intracranial.NOS.,2,2,2,6,293.1,"Swelling, mass, or lump in head and neck [Space-occupying lesion, intracranial NOS]"
+Schizophrenia.and.other.psychotic.disorders,0,0,1,1,295,Schizophrenia and other psychotic disorders
+Schizophrenia,3,2,1,6,295.1,Schizophrenia
+Paranoid.disorders,3,1,2,6,295.2,Paranoid disorders
+Psychosis,0,3,3,6,295.3,Psychosis
+Mood.disorders,3,3,0,6,296,Mood disorders
+Bipolar,3,3,1,7,296.1,Bipolar
+Depression,2,2,3,7,296.2,Depression
+Major.depressive.disorder,2,3,0,5,296.22,Major depressive disorder
+Suicidal.ideation.or.attempt,0,0,1,1,297,Suicidal ideation or attempt
+Suicidal.ideation,0,0,1,1,297.1,Suicidal ideation
+Anxiety..phobic.and.dissociative.disorders,0,2,0,2,300,"Anxiety, phobic and dissociative disorders"
+Anxiety.disorder,2,3,3,8,300.1,Anxiety disorder
+Generalized.anxiety.disorder,0,3,3,6,300.11,Generalized anxiety disorder
+Agorophobia..social.phobia..and.panic.disorder,3,0,0,3,300.12,"Agorophobia, social phobia, and panic disorder"
+Phobia,0,0,0,0,300.13,Phobia
+Generalized.anxiety...phobic.disorders,0,0,0,0,300.2,Generalized anxiety & phobic disorders
+Obsessive.compulsive.disorders,0,0,0,0,300.3,Obsessive-compulsive disorders
+Dysthymic.disorder,0,1,1,2,300.4,Dysthymic disorder
+Acute.reaction.to.stress,0,0,0,0,300.8,Acute reaction to stress
+Posttraumatic.stress.disorder,0,0,1,1,300.9,Posttraumatic stress disorder
+Personality.disorders,0,0,0,0,301,Personality disorders
+Schizoid.personality.disorder,0,2,0,2,301.1,Schizoid personality disorder
+Antisocial.borderline.personality.disorder,0,0,0,0,301.2,Antisocial/borderline personality disorder
+Sexual.and.gender.identity.disorders,0,0,0,0,302,Sexual and gender identity disorders
+Decreased.libido,0,0,0,0,302.1,Decreased libido
+Psychogenic.and.somatoform.disorders,0,0,0,0,303,Psychogenic and somatoform disorders
+Dissociative.disorder,0,0,0,0,303.1,Dissociative disorder
+Psychogenic.disorder,0,2,2,4,303.3,Psychogenic disorder
+Gastrointestinal.malfunction.arising.from.mental.factors,0,0,0,0,303.31,Gastrointestinal malfunction arising from mental factors
+Somatoform.disorder,0,0,0,0,303.4,Somatoform disorder
+Adjustment.reaction,0,1,2,3,304,Adjustment reaction
+Eating.disorder,0,0,0,0,305.2,Eating disorder
+Anorexia.nervosa,0,0,0,0,305.21,Anorexia nervosa
+Other.mental.disorder,0,0,0,0,306,Other mental disorder
+Mental.disorders.durring.after.pregnancy,0,1,0,1,306.1,Mental disorders durring/after pregnancy
+Tension.headache,0,0,0,0,306.9,Tension headache
+Conduct.disorders,0,0,1,1,312,Conduct disorders
+Impulse.control.disorder,0,1,0,1,312.3,Impulse control disorder
+Pervasive.developmental.disorders,0,0,1,1,313,Pervasive developmental disorders
+Attention.deficit.hyperactivity.disorder,0,0,1,1,313.1,Attention deficit hyperactivity disorder
+Tics.and.stuttering,1,0,0,1,313.2,Tics and stuttering
+Autism,0,0,0,0,313.3,Autism
+Develomental.delays.and.disorders,2,3,3,8,315,Develomental delays and disorders
+Learning.disorder,0,0,0,0,315.1,Learning disorder
+Speech.and.language.disorder,0,0,0,0,315.2,Speech and language disorder
+Mental.retardation,1,0,0,1,315.3,Mental retardation
+Substance.addiction.and.disorders,2,1,3,6,316,Substance addiction and disorders
+Polyneuropathy.due.to.drugs,0,0,0,0,316.1,Polyneuropathy due to drugs
+Alcohol.related.disorders,3,3,3,9,317,Alcohol-related disorders
+Alcoholism,3,3,1,7,317.1,Alcoholism
+Alcoholic.liver.damage,3,1,0,4,317.11,Alcoholic liver damage
+Tobacco.use.disorder,2,3,3,8,318,Tobacco use disorder
+Meningitis,0,0,0,0,320,Meningitis
+Encephalitis,0,0,0,0,323,Encephalitis
+Acute..transverse..myelitis,0,0,0,0,323.2,Acute (transverse) myelitis
+Encephalitis..non.infectious,0,0,1,1,323.8,"Encephalitis, non-infectious"
+Other.CNS.infection.and.poliomyelitis,1,0,0,1,324,Other CNS infection and poliomyelitis
+Jakob.Creutzfeldt.disease,0,0,1,1,324.1,Jakob-Creutzfeldt disease
+Phlebitis.and.thrombophlebitis.of.intracranial.venous.sinuses,0,0,0,0,325,Phlebitis and thrombophlebitis of intracranial venous sinuses
+Sleep.disorders,0,3,3,6,327,Sleep disorders
+Hypersomnia,0,0,0,0,327.1,Hypersomnia
+Sleep.apnea,3,0,1,4,327.3,Sleep apnea
+Central.nonobstroctive.sleep.apnea,0,1,0,1,327.31,Central/nonobstroctive sleep apnea
+Obstructive.sleep.apnea,1,2,2,5,327.32,Obstructive sleep apnea
+Insomnia,2,1,3,6,327.4,Insomnia
+Organic.or.persistent.insomnia,0,0,0,0,327.41,Organic or persistent insomnia
+Parasomnia,1,3,0,4,327.5,Parasomnia
+Circadian.rhythm.sleep.disorder,0,0,1,1,327.6,Circadian rhythm sleep disorder
+Sleep.related.movement.disorders,0,0,0,0,327.7,Sleep related movement disorders
+Restless.legs.syndrome,3,3,0,6,327.71,Restless legs syndrome
+Sleep.related.leg.cramps,0,0,0,0,327.72,Sleep related leg cramps
+Other.cerebral.degenerations,2,2,0,4,331,Other cerebral degenerations
+Hydrocephalus,1,1,3,5,331.1,Hydrocephalus
+Cerebral.degeneration..unspecified,3,3,3,9,331.9,"Cerebral degeneration, unspecified"
+Extrapyramidal.disease.and.abnormal.movement.disorders,1,3,0,4,333,Extrapyramidal disease and abnormal movement disorders
+Essential.tremor,2,3,3,8,333.1,Essential tremor
+Myoclonus,1,0,0,1,333.2,Myoclonus
+Tics.and.choreas,3,3,1,7,333.3,Tics and choreas
+Torsion.dystonia,2,3,1,6,333.4,Torsion dystonia
+Other.degenerative.diseases.of.the.basal.ganglia,3,3,1,7,333.8,Other degenerative diseases of the basal ganglia
+Degenerative.disease.of.the.spinal.cord,1,0,1,2,334,Degenerative disease of the spinal cord
+Spinocerebellar.disease,3,0,1,4,334.1,Spinocerebellar disease
+Anterior.horn.cell.disease,0,0,0,0,334.2,Anterior horn cell disease
+Amyotrophic.Lateral.Sclerosis,0,0,0,0,334.21,Amyotrophic Lateral Sclerosis
+Multiple.sclerosis,2,0,0,2,335,Multiple sclerosis
+Disorders.of.the.autonomic.nervous.system,1,3,1,5,337,Disorders of the autonomic nervous system
+Peripheral.autonomic.neuropathy,0,0,0,0,337.1,Peripheral autonomic neuropathy
+Pain,0,0,0,0,338,Pain
+Acute.pain,1,1,1,3,338.1,Acute pain
+Chronic.pain,2,1,2,5,338.2,Chronic pain
+Other.headache.syndromes,3,3,3,9,339,Other headache syndromes
+Migraine,0,0,0,0,340,Migraine
+Migrain.with.aura,0,0,0,0,340.1,Migrain with aura
+Other.demyelinating.diseases.of.central.nervous.system,0,0,0,0,341,Other demyelinating diseases of central nervous system
+Hemiplegia,3,3,1,7,342,Hemiplegia
+Infantile.cerebral.palsy,0,0,0,0,343,Infantile cerebral palsy
+Other.paralytic.syndromes,1,0,1,2,344,Other paralytic syndromes
+Epilepsy..recurrent.seizures..convulsions,2,2,3,7,345,"Epilepsy, recurrent seizures, convulsions"
+Epilepsy,0,1,1,2,345.1,Epilepsy
+Generalized.convulsive.epilepsy,0,0,1,1,345.11,Generalized convulsive epilepsy
+Partial.epilepsy,3,1,1,5,345.12,Partial epilepsy
+Convulsions,2,1,3,6,345.3,Convulsions
+Abnormal.findings.on.study.of.brain.and.or.nervous.system,0,0,0,0,346,Abnormal findings on study of brain and/or nervous system
+Nonspecific.abnormal.findings.on.radiological.and.other.examination.of.skull.and.head,2,3,3,8,346.1,Nonspecific abnormal findings on radiological and other examination of skull and head
+Nonspecific.abnormal.results.of.function.study.of.brain.and.central.nervous.system,0,0,0,0,346.2,Nonspecific abnormal results of function study of brain and central nervous system
+Nonspecific.abnormal.findings.in.cerebrospinal.fluid,1,0,0,1,346.3,Nonspecific abnormal findings in cerebrospinal fluid
+Cataplexy.and.narcolepsy,1,0,0,1,347,Cataplexy and narcolepsy
+Other.conditions.of.brain,1,0,0,1,348,Other conditions of brain
+Cerebral.edema.and.compression.of.brain,3,3,3,9,348.2,Cerebral edema and compression of brain
+Cerebral.cysts,0,0,0,0,348.4,Cerebral cysts
+Coma,1,1,1,3,348.7,Coma
+Encephalopathy..not.elsewhere.classified,3,1,3,7,348.8,"Encephalopathy, not elsewhere classified"
+Other.conditions.of.brain..NOS,3,2,3,8,348.9,"Other conditions of brain, NOS"
+Other.and.unspecified.disorders.of.the.nervous.system,3,2,2,7,349,Other and unspecified disorders of the nervous system
+Abnormal.involuntary.movements,3,3,3,9,350.1,Abnormal involuntary movements
+Lack.of.coordination,3,3,0,6,350.3,Lack of coordination
+Abnormal.reflex,1,1,1,3,350.5,Abnormal reflex
+Disturbances.of.sensation.of.smell.and.taste,0,0,0,0,350.6,Disturbances of sensation of smell and taste
+Other.peripheral.nerve.disorders,1,2,3,6,351,Other peripheral nerve disorders
+Disorders.of.other.cranial.nerves,2,0,1,3,352,Disorders of other cranial nerves
+Trigeminal.nerve.disorders..CN5.,2,2,0,4,352.1,Trigeminal nerve disorders [CN5]
+Facial.nerve.disorders..CN7.,1,0,2,3,352.2,Facial nerve disorders [CN7]
+Nerve.root.and.plexus.disorders,1,0,0,1,353,Nerve root and plexus disorders
+Nerve.plexus.lesions,0,0,0,0,353.1,Nerve plexus lesions
+Nerve.root.lesions,0,0,0,0,353.2,Nerve root lesions
+Complex.regional.central.pain.syndrome,0,0,1,1,355,Complex regional/central pain syndrome
+Chronic.pain.syndrome,0,0,0,0,355.1,Chronic pain syndrome
+Hereditary.and.idiopathic.peripheral.neuropathy,3,3,0,6,356,Hereditary and idiopathic peripheral neuropathy
+Inflammatory.and.toxic.neuropathy,3,2,2,7,357,Inflammatory and toxic neuropathy
+Myoneural.disorders,0,0,0,0,358,Myoneural disorders
+Myasthenia.gravis,0,0,0,0,358.1,Myasthenia gravis
+Muscular.dystrophies.and.other.myopathies,0,0,0,0,359,Muscular dystrophies and other myopathies
+Muscular.dystrophies,0,0,0,0,359.1,Muscular dystrophies
+Myopathy,1,0,0,1,359.2,Myopathy
+Disorders.of.the.globe,0,0,0,0,360,Disorders of the globe
+Progressive.myopia,0,0,0,0,360.2,Progressive myopia
+Hypotony.of.eye,0,0,0,0,360.3,Hypotony of eye
+Retinal.detachments.and.defects,2,0,2,4,361,Retinal detachments and defects
+Retinal.detachment.with.retinal.defect,0,0,0,0,361.1,Retinal detachment with retinal defect
+Retinoschisis.and.retinal.cysts,0,0,0,0,361.2,Retinoschisis and retinal cysts
+Other.retinal.disorders,0,0,0,0,362,Other retinal disorders
+Retinopathy.of.prematurity,0,0,0,0,362.1,Retinopathy of prematurity
+Degeneration.of.macula.and.posterior.pole.of.retina,0,0,0,0,362.2,Degeneration of macula and posterior pole of retina
+Macular.degeneration..dry,0,0,0,0,362.21,"Macular degeneration, dry"
+Macular.degeneration..wet,0,0,1,1,362.22,"Macular degeneration, wet"
+Cystoid.macular.degeneration.of.retina,0,1,1,2,362.23,Cystoid macular degeneration of retina
+Macular.puckering.of.retina,0,0,0,0,362.26,Macular puckering of retina
+Drusen..degenerative..of.retina,0,0,0,0,362.27,Drusen (degenerative) of retina
+Macular.degeneration..senile..of.retina.NOS,0,0,1,1,362.29,Macular degeneration (senile) of retina NOS
+Other.nondiabetic.retinopathy,1,2,1,4,362.3,Other nondiabetic retinopathy
+Separation.of.retinal.layers,0,0,0,0,362.31,Separation of retinal layers
+Retinal.vascular.changes.and.abnomalities,0,1,1,2,362.4,Retinal vascular changes and abnomalities
+Toxic.maculopathy.of.retina,0,0,0,0,362.5,Toxic maculopathy of retina
+Peripheral.retinal.degenerations,0,0,0,0,362.6,Peripheral retinal degenerations
+Hereditary.retinal.dystrophies,0,0,0,0,362.7,Hereditary retinal dystrophies
+Retinal.hemorrhage.ischemia,0,0,0,0,362.8,Retinal hemorrhage/ischemia
+Retinal.edema,0,1,1,2,362.9,Retinal edema
+Chorioretinal.inflammations..scars..and.other.disorders.of.choroid,0,0,0,0,363,"Chorioretinal inflammations, scars, and other disorders of choroid"
+Chorioretinal.scars,0,0,0,0,363.3,Chorioretinal scars
+Choroidal.degenerations,0,0,0,0,363.4,Choroidal degenerations
+Corneal.opacity.and.other.disorders.of.cornea,0,0,0,0,364,Corneal opacity and other disorders of cornea
+Corneal.opacity,0,0,0,0,364.1,Corneal opacity
+Corneal.edema,0,0,0,0,364.2,Corneal edema
+Corneal.degenerations,0,0,0,0,364.4,Corneal degenerations
+Keratoconus,0,0,0,0,364.41,Keratoconus
+Corneal.dystrophy,0,0,0,0,364.5,Corneal dystrophy
+Fuchs..dystrophy,0,0,0,0,364.51,Fuchs' dystrophy
+Cornea.replaced.by.transplant,0,0,0,0,364.9,Cornea replaced by transplant
+Glaucoma,3,3,1,7,365,Glaucoma
+Open.angle.glaucoma,0,1,1,2,365.1,Open-angle glaucoma
+Primary.open.angle.glaucoma,1,1,3,5,365.11,Primary open angle glaucoma
+Primary.angle.closure.glaucoma,0,1,1,2,365.2,Primary angle-closure glaucoma
+Pseudoexfoliation.glaucoma,0,0,0,0,365.5,Pseudoexfoliation glaucoma
+Cataract,1,3,3,7,366,Cataract
+Nonsenile.Cataract,0,0,0,0,366.1,Nonsenile Cataract
+Senile.cataract,2,1,3,6,366.2,Senile cataract
+Traumatic.cataract,0,0,0,0,366.3,Traumatic cataract
+Disorders.of.refraction.and.accommodation..blindness.and.low.vision,0,0,0,0,367,Disorders of refraction and accommodation; blindness and low vision
+Myopia,2,1,0,3,367.1,Myopia
+Astigmatism,2,1,1,4,367.2,Astigmatism
+Presbyopia,2,3,0,5,367.4,Presbyopia
+Hypermetropia,1,1,1,3,367.8,Hypermetropia
+Blindness.and.low.vision,0,2,1,3,367.9,Blindness and low vision
+Visual.disturbances,2,1,2,5,368,Visual disturbances
+Amblyopia,0,2,0,2,368.1,Amblyopia
+Diplopia.and.disorders.of.binocular.vision,3,3,3,9,368.2,Diplopia and disorders of binocular vision
+Anisometropia,0,0,0,0,368.3,Anisometropia
+Visual.field.defects,0,0,1,1,368.4,Visual field defects
+Color.vision.deficiencies,0,0,0,0,368.5,Color vision deficiencies
+Subjective.visual.disturbances,3,2,3,8,368.9,Subjective visual disturbances
+Psychophysical.visual.disturbances,0,0,1,1,368.91,Psychophysical visual disturbances
+Infection.of.the.eye,0,0,0,0,369,Infection of the eye
+Eye.infection..viral,0,0,0,0,369.2,"Eye infection, viral"
+Conjunctivitis..infectious,0,1,1,2,369.5,"Conjunctivitis, infectious"
+Keratitis,0,0,0,0,370,Keratitis
+Corneal.ulcer,0,0,0,0,370.1,Corneal ulcer
+Superficial.keratitis,0,0,0,0,370.2,Superficial keratitis
+Keratoconjunctivitis,0,0,0,0,370.3,Keratoconjunctivitis
+Keratoconjunctivitis.sicca,0,0,0,0,370.31,Keratoconjunctivitis sicca
+Inflammation.of.the.eye,0,0,0,0,371,Inflammation of the eye
+Uveitis..noninfectious.or.NOS,0,1,0,1,371.1,"Uveitis, noninfectious or NOS"
+Conjunctivitis..noninfectious,0,0,0,0,371.2,"Conjunctivitis, noninfectious"
+Allergic.conjunctivitis,0,1,1,2,371.21,Allergic conjunctivitis
+Inflammation.of.eyelids,2,0,3,5,371.3,Inflammation of eyelids
+Noninfectious.dermatoses.of.eyelid,0,0,0,0,371.33,Noninfectious dermatoses of eyelid
+Chronic.inflammatory.disorders.of.orbit,0,0,0,0,371.9,Chronic inflammatory disorders of orbit
+Disorders.of.conjunctiva,0,1,3,4,372,Disorders of conjunctiva
+Other.disorders.of.eyelids,0,0,2,2,374,Other disorders of eyelids
+Ectropion.or.entropion,0,0,1,1,374.1,Ectropion or entropion
+Lagophthalmos,0,0,0,0,374.2,Lagophthalmos
+Ptosis.of.eyelid,0,0,1,1,374.3,Ptosis of eyelid
+Dermatochalasis,0,0,1,1,374.6,Dermatochalasis
+Disorders.of.lacrimal.system,0,0,0,0,375,Disorders of lacrimal system
+Dry.eyes,0,1,1,2,375.1,Dry eyes
+Epiphora,0,0,0,0,375.2,Epiphora
+Disorders.of.the.orbit,2,2,0,4,376,Disorders of the orbit
+Disorders.of.optic.nerve.and.visual.pathways,2,0,0,2,377,Disorders of optic nerve and visual pathways
+Optic.atrophy,1,0,1,2,377.1,Optic atrophy
+Optic.neuritis.neuropathy,0,0,0,0,377.3,Optic neuritis/neuropathy
+Strabismus.and.other.disorders.of.binocular.eye.movements,1,0,0,1,378,Strabismus and other disorders of binocular eye movements
+Strabismus..not.specified.as.paralytic.,0,0,0,0,378.1,Strabismus (not specified as paralytic)
+Nystagmus.and.other.irregular.eye.movements,0,0,0,0,378.2,Nystagmus and other irregular eye movements
+Paralytic.strabismus,0,0,0,0,378.5,Paralytic strabismus
+Other.disorders.of.eye,0,3,0,3,379,Other disorders of eye
+Scleritis.and.episcleritis,0,0,0,0,379.1,Scleritis and episcleritis
+Disorders.of.vitreous.body,2,1,3,6,379.2,Disorders of vitreous body
+Aphakia.and.other.disorders.of.lens,0,0,1,1,379.3,Aphakia and other disorders of lens
+Anomalies.of.pupillary.function,0,0,1,1,379.4,Anomalies of pupillary function
+Disorders.of.iris.and.ciliary.body,0,0,0,0,379.5,Disorders of iris and ciliary body
+Pigmentary.iris.degeneration,0,0,0,0,379.51,Pigmentary iris degeneration
+Pain..swelling.or.discharge.of.eye,0,1,1,2,379.9,"Pain, swelling or discharge of eye"
+Disorders.of.external.ear,0,0,0,0,380,Disorders of external ear
+Otitis.externa,0,0,0,0,380.1,Otitis externa
+Impacted.cerumen,3,2,3,8,380.4,Impacted cerumen
+Otitis.media.and.Eustachian.tube.disorders,0,0,0,0,381,Otitis media and Eustachian tube disorders
+Otitis.media,0,0,0,0,381.1,Otitis media
+Suppurative.and.unspecified.otitis.media,0,0,0,0,381.11,Suppurative and unspecified otitis media
+Eustachian.tube.disorders,0,0,0,0,381.2,Eustachian tube disorders
+Mastoiditis...related.conditions,0,0,1,1,381.3,Mastoiditis & related conditions
+Otorrhea,0,0,0,0,381.9,Otorrhea
+Otalgia,0,1,2,3,382,Otalgia
+Otosclerosis,0,0,0,0,383,Otosclerosis
+Other.disorders.of.tympanic.membrane,0,0,0,0,384,Other disorders of tympanic membrane
+Myringitis,0,0,0,0,384.1,Myringitis
+Perforation.of.tympanic.membrane,0,0,0,0,384.4,Perforation of tympanic membrane
+Other.disorders.of.middle.ear.and.mastoid,0,0,1,1,385,Other disorders of middle ear and mastoid
+Cholesteatoma,0,0,0,0,385.3,Cholesteatoma
+Tympanosclerosis.and.middle.ear.disease.related.to.otitis.media,0,0,0,0,385.5,Tympanosclerosis and middle ear disease related to otitis media
+Vertiginous.syndromes.and.other.disorders.of.vestibular.system,0,0,0,0,386,Vertiginous syndromes and other disorders of vestibular system
+Meniere.s.disease,0,2,0,2,386.1,Meniere's disease
+Peripheral.or.central.vertigo,0,1,0,1,386.2,Peripheral or central vertigo
+Central.origin.vertigo,0,0,0,0,386.21,Central origin vertigo
+Labyrinthitis,0,0,0,0,386.3,Labyrinthitis
+Dizziness.and.giddiness..Light.headedness.and.vertigo.,3,3,2,8,386.9,Dizziness and giddiness (Light-headedness and vertigo)
+Other.disorders.of.ear,0,0,0,0,388,Other disorders of ear
+Hearing.loss,3,3,3,9,389,Hearing loss
+Sensorineural.hearing.loss,0,3,3,6,389.1,Sensorineural hearing loss
+Conductive.hearing.loss,0,0,0,0,389.2,Conductive hearing loss
+Degenerative.and.vascular.disorders.of.ear,0,0,1,1,389.3,Degenerative and vascular disorders of ear
+Tinnitus,0,0,0,0,389.4,Tinnitus
+Disorders.of.acoustic.nerve,0,0,0,0,389.5,Disorders of acoustic nerve
+Rheumatic.disease.of.the.heart.valves,1,1,2,4,394,Rheumatic disease of the heart valves
+Mitral.valve.stenosis.and.aortic.valve.stenosis,0,2,1,3,394.1,Mitral valve stenosis and aortic valve stenosis
+Mitral.valve.disease,3,1,3,7,394.2,Mitral valve disease
+Aortic.valve.disease,3,1,3,7,394.3,Aortic valve disease
+Acute.rheumatic.heart.disease,0,0,0,0,394.4,Acute rheumatic heart disease
+Disease.of.tricuspid.valve,1,3,0,4,394.7,Disease of tricuspid valve
+Heart.valve.disorders,0,0,0,0,395,Heart valve disorders
+Nonrheumatic.mitral.valve.disorders,3,2,2,7,395.1,Nonrheumatic mitral valve disorders
+Nonrheumatic.aortic.valve.disorders,2,3,3,8,395.2,Nonrheumatic aortic valve disorders
+Nonrheumatic.tricuspid.valve.disorders,1,1,1,3,395.3,Nonrheumatic tricuspid valve disorders
+Nonrheumatic.pulmonary.valve.disorders,0,1,0,1,395.4,Nonrheumatic pulmonary valve disorders
+Heart.valve.replaced,3,1,3,7,395.6,Heart valve replaced
+Abnormal.heart.sounds,0,3,2,5,396,Abnormal heart sounds
+Hypertension,0,0,0,0,401,Hypertension
+Essential.hypertension,3,3,3,9,401.1,Essential hypertension
+Hypertensive.heart.and.or.renal.disease,3,3,3,9,401.2,Hypertensive heart and/or renal disease
+Hypertensive.heart.disease,1,3,3,7,401.21,Hypertensive heart disease
+Hypertensive.chronic.kidney.disease,3,2,3,8,401.22,Hypertensive chronic kidney disease
+Other.hypertensive.complications,2,1,0,3,401.3,Other hypertensive complications
+Ischemic.Heart.Disease,0,0,0,0,411,Ischemic Heart Disease
+Unstable.angina..intermediate.coronary.syndrome.,1,1,3,5,411.1,Unstable angina (intermediate coronary syndrome)
+Myocardial.infarction,3,1,3,7,411.2,Myocardial infarction
+Angina.pectoris,1,3,1,5,411.3,Angina pectoris
+Coronary.atherosclerosis,2,3,3,8,411.4,Coronary atherosclerosis
+Aneurysm.and.dissection.of.heart,0,0,1,1,411.41,Aneurysm and dissection of heart
+Other.chronic.ischemic.heart.disease..unspecified,3,3,3,9,411.8,"Other chronic ischemic heart disease, unspecified"
+Other.acute.and.subacute.forms.of.ischemic.heart.disease,3,2,2,7,411.9,Other acute and subacute forms of ischemic heart disease
+Other.forms.of.chronic.heart.disease,1,3,2,6,414,Other forms of chronic heart disease
+ASCVD,2,1,2,5,414.2,ASCVD
+Pulmonary.heart.disease,2,1,0,3,415,Pulmonary heart disease
+Acute.pulmonary.heart.disease,0,0,0,0,415.1,Acute pulmonary heart disease
+Pulmonary.embolism.and.infarction..acute,0,2,1,3,415.11,"Pulmonary embolism and infarction, acute"
+Chronic.pulmonary.heart.disease,3,1,3,7,415.2,Chronic pulmonary heart disease
+Primary.pulmonary.hypertension,1,1,0,2,415.21,Primary pulmonary hypertension
+Cardiomegaly,3,3,1,7,416,Cardiomegaly
+Nonspecific.chest.pain,3,2,3,8,418,Nonspecific chest pain
+Precordial.pain,1,1,0,2,418.1,Precordial pain
+Myocarditis,0,0,0,0,420.1,Myocarditis
+Pericarditis,2,3,2,7,420.2,Pericarditis
+Acute.pericarditis,1,2,2,5,420.21,Acute pericarditis
+Chronic.pericarditis,0,2,1,3,420.22,Chronic pericarditis
+Endocarditis,2,3,0,5,420.3,Endocarditis
+Cardiomyopathy,0,0,0,0,425,Cardiomyopathy
+Primary.intrinsic.cardiomyopathies,3,1,1,5,425.1,Primary/intrinsic cardiomyopathies
+Hypertrophic.obstructive.cardiomyopathy,0,0,0,0,425.11,Hypertrophic obstructive cardiomyopathy
+Other.hypertrophic.cardiomyopathy,0,0,0,0,425.12,Other hypertrophic cardiomyopathy
+Secondary.extrinsic.cardiomyopathies,1,1,1,3,425.2,Secondary/extrinsic cardiomyopathies
+Other.cardiomyopathy,0,0,1,1,425.8,Other cardiomyopathy
+Cardiac.conduction.disorders,0,0,0,0,426,Cardiac conduction disorders
+Atrioventricular..AV..block,0,0,1,1,426.2,Atrioventricular [AV] block
+First.degree.AV.block,2,1,1,4,426.21,First degree AV block
+Mobitz.II.AV.block,0,0,1,1,426.22,Mobitz II AV block
+Second.degree.AV.block,1,1,0,2,426.23,Second degree AV block
+Atrioventricular.block..complete,0,1,2,3,426.24,"Atrioventricular block, complete"
+Other.heart.block,0,0,0,0,426.25,Other heart block
+Bundle.branch.block,0,1,0,1,426.3,Bundle branch block
+Right.bundle.branch.block,0,3,2,5,426.31,Right bundle branch block
+Left.bundle.branch.block,1,1,0,2,426.32,Left bundle branch block
+Anomalous.atrioventricular.excitation,0,1,0,1,426.4,Anomalous atrioventricular excitation
+Abnormal.electrocardiogram..ECG...EKG.,3,3,3,9,426.7,Abnormal electrocardiogram [ECG] [EKG]
+Other.cardiac.conduction.disorders,2,2,1,5,426.8,Other cardiac conduction disorders
+Cardiac.pacemaker.in.situ,0,1,2,3,426.91,Cardiac pacemaker in situ
+Cardiac.defibrillator.in.situ,0,0,0,0,426.92,Cardiac defibrillator in situ
+Paroxysmal.tachycardia..unspecified,0,0,0,0,427.1,"Paroxysmal tachycardia, unspecified"
+Paroxysmal.supraventricular.tachycardia,3,3,3,9,427.11,Paroxysmal supraventricular tachycardia
+Paroxysmal.ventricular.tachycardia,3,2,0,5,427.12,Paroxysmal ventricular tachycardia
+Atrial.fibrillation.and.flutter,0,0,0,0,427.2,Atrial fibrillation and flutter
+Atrial.fibrillation,0,3,3,6,427.21,Atrial fibrillation
+Atrial.flutter,0,1,3,4,427.22,Atrial flutter
+Other.specified.cardiac.dysrhythmias,2,2,2,6,427.3,Other specified cardiac dysrhythmias
+Cardiac.arrest.and.ventricular.fibrillation,0,0,0,0,427.4,Cardiac arrest and ventricular fibrillation
+Ventricular.fibrillation.and.flutter,0,0,1,1,427.41,Ventricular fibrillation and flutter
+Cardiac.arrest,1,1,0,2,427.42,Cardiac arrest
+Arrhythmia..cardiac..NOS,1,3,3,7,427.5,Arrhythmia (cardiac) NOS
+Premature.beats,3,2,2,7,427.6,Premature beats
+Supraventricular.premature.beats,3,3,3,9,427.61,Supraventricular premature beats
+Tachycardia.NOS,3,3,2,8,427.7,Tachycardia NOS
+Sinoatrial.node.dysfunction..Bradycardia.,0,3,1,4,427.8,Sinoatrial node dysfunction (Bradycardia)
+Palpitations,3,1,2,6,427.9,Palpitations
+Congestive.heart.failure..nonhypertensive,0,0,0,0,428,Congestive heart failure; nonhypertensive
+Congestive.heart.failure..CHF..NOS,3,2,3,8,428.1,Congestive heart failure (CHF) NOS
+Heart.failure.NOS,3,3,3,9,428.2,Heart failure NOS
+Heart.failure.with.reduced.EF..Systolic.or.combined.heart.failure.,3,1,3,7,428.3,Heart failure with reduced EF [Systolic or combined heart failure]
+Heart.failure.with.preserved.EF..Diastolic.heart.failure.,3,1,3,7,428.4,Heart failure with preserved EF [Diastolic heart failure]
+Ill.defined.descriptions.and.complications.of.heart.disease,0,0,0,0,429,Ill-defined descriptions and complications of heart disease
+Heart.transplant.surgery,0,0,0,0,429.1,Heart transplant/surgery
+Abnormal.function.study.of.cardiovascular.system,2,0,1,3,429.2,Abnormal function study of cardiovascular system
+Symptoms.involving.cardiovascular.system,2,1,3,6,429.3,Symptoms involving cardiovascular system
+Cardiac.complications..not.elsewhere.classified,1,1,2,4,429.9,"Cardiac complications, not elsewhere classified"
+Intracranial.hemorrhage,3,1,0,4,430,Intracranial hemorrhage
+Subarachnoid.hemorrhage,0,1,0,1,430.1,Subarachnoid hemorrhage
+Intracerebral.hemorrhage,3,2,1,6,430.2,Intracerebral hemorrhage
+Subdural.hemorrhage,0,1,1,2,430.3,Subdural hemorrhage
+Cerebrovascular.disease,0,3,0,3,433,Cerebrovascular disease
+Occlusion.and.stenosis.of.precerebral.arteries,0,2,2,4,433.1,Occlusion and stenosis of precerebral arteries
+Occlusion.of.cerebral.arteries..with.cerebral.infarction,0,1,1,2,433.11,"Occlusion of cerebral arteries, with cerebral infarction"
+Cerebral.atherosclerosis,3,3,3,9,433.12,Cerebral atherosclerosis
+Occlusion.of.cerebral.arteries,3,3,3,9,433.2,Occlusion of cerebral arteries
+Cerebral.artery.occlusion..with.cerebral.infarction,3,3,3,9,433.21,"Cerebral artery occlusion, with cerebral infarction"
+Cerebral.ischemia,2,3,3,8,433.3,Cerebral ischemia
+Transient.cerebral.ischemia,3,3,0,6,433.31,Transient cerebral ischemia
+Moyamoya.disease,0,0,0,0,433.32,Moyamoya disease
+Cerebral.aneurysm,1,1,1,3,433.5,Cerebral aneurysm
+Acute..but.ill.defined.cerebrovascular.disease,0,2,3,5,433.6,"Acute, but ill-defined cerebrovascular disease"
+Late.effects.of.cerebrovascular.disease,2,1,3,6,433.8,Late effects of cerebrovascular disease
+Atherosclerosis,0,1,0,1,440,Atherosclerosis
+Atherosclerosis.of.renal.artery,2,1,0,3,440.1,Atherosclerosis of renal artery
+Atherosclerosis.of.the.extremities,0,1,1,2,440.2,Atherosclerosis of the extremities
+Atherosclerosis.of.native.arteries.of.the.extremities.with.ulceration.or.gangrene,0,1,1,2,440.21,Atherosclerosis of native arteries of the extremities with ulceration or gangrene
+Atherosclerosis.of.native.arteries.of.the.extremities.with.intermittent.claudication,0,1,1,2,440.22,Atherosclerosis of native arteries of the extremities with intermittent claudication
+Atherosclerosis.of.aorta,3,3,3,9,440.9,Atherosclerosis of aorta
+Vascular.insufficiency.of.intestine,0,1,0,1,441,Vascular insufficiency of intestine
+Acute.vascular.insufficiency.of.intestine,0,0,1,1,441.1,Acute vascular insufficiency of intestine
+Chronic.vascular.insufficiency.of.intestine,0,1,0,1,441.2,Chronic vascular insufficiency of intestine
+Other.aneurysm,2,1,0,3,442,Other aneurysm
+Aortic.aneurysm,3,1,0,4,442.1,Aortic aneurysm
+Abdominal.aortic.aneurysm,2,3,0,5,442.11,Abdominal aortic aneurysm
+Aneurysm.of.iliac.artery,0,0,0,0,442.2,Aneurysm of iliac artery
+Aneurysm.of.artery.of.lower.extremity,1,3,0,4,442.3,Aneurysm of artery of lower extremity
+Arterial.dissection,0,0,0,0,442.4,Arterial dissection
+Aneurysm.of.other.specified.artery,0,1,0,1,442.8,Aneurysm of other specified artery
+Peripheral.vascular.disease,0,0,0,0,443,Peripheral vascular disease
+Raynaud.s.syndrome,0,0,0,0,443.1,Raynaud's syndrome
+Peripheral.angiopathy.in.diseases.classified.elsewhere,0,0,1,1,443.7,Peripheral angiopathy in diseases classified elsewhere
+Other.specified.peripheral.vascular.diseases,0,1,1,2,443.8,Other specified peripheral vascular diseases
+Peripheral.vascular.disease..unspecified,3,3,3,9,443.9,"Peripheral vascular disease, unspecified"
+Arterial.embolism.and.thrombosis,1,2,0,3,444,Arterial embolism and thrombosis
+Arterial.embolism.and.thrombosis.of.lower.extremity.artery,2,1,2,5,444.1,Arterial embolism and thrombosis of lower extremity artery
+Embolism.and.thrombosis.of.abdominal.aorta,0,0,1,1,444.2,Embolism and thrombosis of abdominal aorta
+Atheroembolism,0,0,0,0,444.5,Atheroembolism
+Polyarteritis.nodosa.and.allied.conditions,0,0,0,0,446,Polyarteritis nodosa and allied conditions
+Thromboangiitis.obliterans,0,0,0,0,446.1,Thromboangiitis obliterans
+Acute.febrile.mucocutaneous.lymph.node.syndrome..Kawasaki.disease.,0,0,0,0,446.2,Acute febrile mucocutaneous lymph node syndrome (Kawasaki disease)
+Hypersensitivity.angiitis,0,0,0,0,446.3,Hypersensitivity angiitis
+Wegener.s.granulomatosis,0,0,0,0,446.4,Wegener's granulomatosis
+Giant.cell.arteritis,0,0,0,0,446.5,Giant cell arteritis
+Polyarteritis.nodosa,0,0,0,0,446.6,Polyarteritis nodosa
+Takayasu.s.disease,0,0,0,0,446.7,Takayasu's disease
+Thrombotic.microangiopathy,0,0,0,0,446.8,Thrombotic microangiopathy
+Arteritis.NOS,0,0,0,0,446.9,Arteritis NOS
+Other.disorders.of.arteries.and.arterioles,1,1,0,2,447,Other disorders of arteries and arterioles
+Stricture.of.artery,1,1,1,3,447.1,Stricture of artery
+Aortic.ectasia,0,0,0,0,447.7,Aortic ectasia
+Disease.of.capillaries,0,0,0,0,448,Disease of capillaries
+Noninfectious.disorders.of.lymphatic.channels,0,1,0,1,450,Noninfectious disorders of lymphatic channels
+Phlebitis.and.thrombophlebitis,0,1,0,1,451,Phlebitis and thrombophlebitis
+Phlebitis.and.thrombophlebitis.of.lower.extremities,2,1,2,5,451.2,Phlebitis and thrombophlebitis of lower extremities
+Other.venous.embolism.and.thrombosis,2,1,3,6,452,Other venous embolism and thrombosis
+Iatrogenic.pulmonary.embolism.and.infarction,0,0,0,0,452.1,Iatrogenic pulmonary embolism and infarction
+Deep.vein.thrombosis..DVT.,2,3,3,8,452.2,Deep vein thrombosis [DVT]
+Postphlebitic.syndrome,0,0,0,0,452.8,Postphlebitic syndrome
+Chronic.venous.hypertension,0,0,0,0,453,Chronic venous hypertension
+Varicose.veins,0,0,0,0,454,Varicose veins
+Varicose.veins.of.lower.extremity,2,0,0,2,454.1,Varicose veins of lower extremity
+Varicose.veins.of.lower.extremity..symptomtic,0,0,1,1,454.11,"Varicose veins of lower extremity, symptomtic"
+Hemorrhoids,2,1,3,6,455,Hemorrhoids
+Chronic.venous.insufficiency..CVI.,0,1,2,3,456,Chronic venous insufficiency [CVI]
+Hypotension,1,0,1,2,458,Hypotension
+Orthostatic.hypotension,1,3,2,6,458.1,Orthostatic hypotension
+Iatrogenic.hypotension,3,2,0,5,458.2,Iatrogenic hypotension
+Hypotension.NOS,3,3,2,8,458.9,Hypotension NOS
+Other.disorders.of.circulatory.system,0,1,0,1,459,Other disorders of circulatory system
+Hemorrhage.NOS,3,1,0,4,459.1,Hemorrhage NOS
+Circulatory.disease.NEC,2,2,2,6,459.9,Circulatory disease NEC
+Acute.sinusitis,2,3,2,7,464,Acute sinusitis
+Acute.upper.respiratory.infections.of.multiple.or.unspecified.sites,2,3,2,7,465,Acute upper respiratory infections of multiple or unspecified sites
+Acute.pharyngitis,2,3,3,8,465.2,Acute pharyngitis
+Acute.laryngitis.and.tracheitis,0,0,0,0,465.4,Acute laryngitis and tracheitis
+Septal.Deviations.Turbinate.Hypertrophy,1,0,2,3,470,Septal Deviations/Turbinate Hypertrophy
+Nasal.polyps,0,0,0,0,471,Nasal polyps
+Chronic.pharyngitis.and.nasopharyngitis,0,0,0,0,472,Chronic pharyngitis and nasopharyngitis
+Diseases.of.the.larynx.and.vocal.cords,1,1,1,3,473,Diseases of the larynx and vocal cords
+Chronic.laryngitis,0,0,1,1,473.1,Chronic laryngitis
+Paralysis.spasm.of.vocal.cords.or.larynx,0,0,0,0,473.3,Paralysis/spasm of vocal cords or larynx
+Voice.disturbance,3,3,3,9,473.4,Voice disturbance
+Acute.and.chronic.tonsillitis,0,0,0,0,474,Acute and chronic tonsillitis
+Acute.tonsillitis,0,0,0,0,474.1,Acute tonsillitis
+Chronic.tonsillitis.and.adenoiditis,0,0,0,0,474.2,Chronic tonsillitis and adenoiditis
+Chronic.sinusitis,1,1,1,3,475,Chronic sinusitis
+Postnasal.drip,0,0,0,0,475.9,Postnasal drip
+Allergic.rhinitis,2,3,2,7,476,Allergic rhinitis
+Epistaxis.or.throat.hemorrhage,1,1,1,3,477,Epistaxis or throat hemorrhage
+Throat.pain,0,3,0,3,478,Throat pain
+Other.upper.respiratory.disease,1,1,3,5,479,Other upper respiratory disease
+Pneumonia,3,3,1,7,480,Pneumonia
+Bacterial.pneumonia,1,1,3,5,480.1,Bacterial pneumonia
+Pneumococcal.pneumonia,1,1,1,3,480.11,Pneumococcal pneumonia
+Pseudomonal.pneumonia,1,1,0,2,480.12,Pseudomonal pneumonia
+MRSA.pneumonia,0,0,1,1,480.13,MRSA pneumonia
+Viral.pneumonia,0,1,0,1,480.2,Viral pneumonia
+Pneumonia.due.to.fungus..mycoses.,0,0,0,0,480.3,Pneumonia due to fungus (mycoses)
+Bronchopneumonia.and.lung.abscess,0,0,0,0,480.5,Bronchopneumonia and lung abscess
+Influenza,2,1,2,5,481,Influenza
+Acute.bronchitis.and.bronchiolitis,2,3,1,6,483,Acute bronchitis and bronchiolitis
+Asthma,2,2,2,6,495,Asthma
+Chronic.obstructive.asthma,2,3,1,6,495.1,Chronic obstructive asthma
+Chronic.obstructive.asthma.with.exacerbation,0,1,1,2,495.11,Chronic obstructive asthma with exacerbation
+Asthma.with.exacerbation,1,2,0,3,495.2,Asthma with exacerbation
+Chronic.airway.obstruction,3,3,3,9,496,Chronic airway obstruction
+Emphysema,3,3,3,9,496.1,Emphysema
+Chronic.bronchitis,1,1,0,2,496.2,Chronic bronchitis
+Obstructive.chronic.bronchitis,2,2,1,5,496.21,Obstructive chronic bronchitis
+Bronchiectasis,0,0,1,1,496.3,Bronchiectasis
+Bronchitis,1,1,0,2,497,Bronchitis
+Acute.bronchospasm,0,0,0,0,498,Acute bronchospasm
+Cystic.fibrosis,0,1,0,1,499,Cystic fibrosis
+Lung.disease.due.to.external.agents,1,0,0,1,500,Lung disease due to external agents
+Extrinsic.allergic.alveolitis,0,0,0,0,500.1,Extrinsic allergic alveolitis
+Pneumoconiosis,0,0,0,0,500.2,Pneumoconiosis
+Pneumonitis.due.to.inhalation.of.food.or.vomitus,3,3,3,9,501,Pneumonitis due to inhalation of food or vomitus
+Postinflammatory.pulmonary.fibrosis,0,1,3,4,502,Postinflammatory pulmonary fibrosis
+Pulmonary.congestion.and.hypostasis,1,1,3,5,503,Pulmonary congestion and hypostasis
+Other.alveolar.and.parietoalveolar.pneumonopathy,1,1,1,3,504,Other alveolar and parietoalveolar pneumonopathy
+Idiopathic.fibrosing.alveolitis,0,0,1,1,504.1,Idiopathic fibrosing alveolitis
+Other.pulmonary.inflamation.or.edema,2,1,1,4,505,Other pulmonary inflamation or edema
+Empyema.and.pneumothorax,3,1,0,4,506,Empyema and pneumothorax
+Pleurisy..pleural.effusion,3,3,2,8,507,Pleurisy; pleural effusion
+Pulmonary.collapse..interstitial.and.compensatory.emphysema,2,3,3,8,508,Pulmonary collapse; interstitial and compensatory emphysema
+Respiratory.failure..insufficiency..arrest,0,0,0,0,509,"Respiratory failure, insufficiency, arrest"
+Respiratory.failure,3,1,2,6,509.1,Respiratory failure
+Respiratory.insufficiency,1,1,0,2,509.2,Respiratory insufficiency
+Pulmonary.insufficiency.or.respiratory.failure.following.trauma.and.surgery,2,3,1,6,509.3,Pulmonary insufficiency or respiratory failure following trauma and surgery
+Respiratory.arrest,0,0,0,0,509.5,Respiratory arrest
+Dependence.on.respirator..Ventilator..or.supplemental.oxygen,1,1,1,3,509.8,Dependence on respirator [Ventilator] or supplemental oxygen
+Other.diseases.of.lung,3,2,3,8,510,Other diseases of lung
+Lung.transplant,2,2,0,4,510.2,Lung transplant
+Wheezing,2,2,3,7,512.1,Wheezing
+Painful.respiration,0,1,1,2,512.2,Painful respiration
+Abnormal.chest.sounds,0,0,1,1,512.3,Abnormal chest sounds
+Shortness.of.breath,2,3,3,8,512.7,Shortness of breath
+Cough,2,1,3,6,512.8,Cough
+Other.dyspnea,3,3,2,8,512.9,Other dyspnea
+Respiratory.abnormalities,0,0,1,1,513,Respiratory abnormalities
+Hypoventilation,3,1,1,5,513.3,Hypoventilation
+Apnea,0,2,1,3,513.31,Apnea
+Orthopnea,0,0,1,1,513.32,Orthopnea
+Hyperventilation,0,1,1,2,513.4,Hyperventilation
+Disorders.of.diaphragm,1,1,0,2,513.8,Disorders of diaphragm
+Abnormal.findings.examination.of.lungs,2,1,2,5,514,Abnormal findings examination of lungs
+Abnormal.results.of.function.study.of.pulmonary.system,2,0,2,4,514.1,Abnormal results of function study of pulmonary system
+Solitary.pulmonary.nodule,0,1,1,2,514.2,Solitary pulmonary nodule
+Abnormal.sputum,0,1,1,2,516,Abnormal sputum
+Hemoptysis,1,1,0,2,516.1,Hemoptysis
+Other.diseases.of.respiratory.system..not.elsewhere.classified,0,0,0,0,519,"Other diseases of respiratory system, not elsewhere classified"
+Tracheostomy.complications,0,0,1,1,519.1,Tracheostomy complications
+Respiratory.complications,0,0,1,1,519.2,Respiratory complications
+Other.diseases.of.respiratory.system..NEC,1,1,1,3,519.8,"Other diseases of respiratory system, NEC"
+Symptoms.involving.respiratory.system.and.other.chest.symptoms,3,3,3,9,519.9,Symptoms involving respiratory system and other chest symptoms
+Disorders.of.tooth.development,0,0,0,0,520,Disorders of tooth development
+Hereditary.disturbances.in.tooth.structure,2,0,0,2,520.1,Hereditary disturbances in tooth structure
+Disturbances.in.tooth.eruption,0,0,0,0,520.2,Disturbances in tooth eruption
+Diseases.of.hard.tissues.of.teeth,0,0,0,0,521,Diseases of hard tissues of teeth
+Dental.caries,0,1,0,1,521.1,Dental caries
+Dental.abrasion..erosion.and.attrition,0,0,0,0,521.2,"Dental abrasion, erosion and attrition"
+Diseases.of.pulp.and.periapical.tissues,0,0,0,0,522,Diseases of pulp and periapical tissues
+Pulpitis.and.necrosis.of.tooth.pulp,0,0,0,0,522.1,Pulpitis and necrosis of tooth pulp
+Periapical.abscess,0,1,0,1,522.5,Periapical abscess
+Gingival.and.periodontal.diseases,0,1,0,1,523,Gingival and periodontal diseases
+Gingivitis,0,0,0,0,523.1,Gingivitis
+Periodontitis..acute.or.chronic.,0,0,0,0,523.3,Periodontitis (acute or chronic)
+Acute.periodontitis,0,0,0,0,523.31,Acute periodontitis
+Chronic.periodontitis,0,0,0,0,523.32,Chronic periodontitis
+Dentofacial.anomalies..including.malocclusion,0,0,0,0,524,"Dentofacial anomalies, including malocclusion"
+Anomalies.of.tooth.position.malocclusion,0,0,0,0,524.3,Anomalies of tooth position/malocclusion
+Other.diseases.of.the.teeth.and.supporting.structures,0,1,1,2,525,Other diseases of the teeth and supporting structures
+Loss.of.teeth.or.edentulism,0,0,1,1,525.1,Loss of teeth or edentulism
+Atrophy.of.edentulous.alveolar.ridge,0,0,0,0,525.2,Atrophy of edentulous alveolar ridge
+Diseases.of.the.jaws,0,0,0,0,526,Diseases of the jaws
+Cysts.of.the.jaws,0,0,0,0,526.1,Cysts of the jaws
+Anomalies.of.jaw.size.symmetry,0,0,0,0,526.3,Anomalies of jaw size/symmetry
+Temporomandibular.joint.disorders,0,0,0,0,526.4,Temporomandibular joint disorders
+Temporomandibular.joint.disorder..unspecified,0,0,0,0,526.41,"Temporomandibular joint disorder, unspecified"
+Arthralgia.ankylosis.of.temporomandibular.joint,0,0,0,0,526.42,Arthralgia/ankylosis of temporomandibular joint
+Inflammatory.conditions.of.jaw,0,0,0,0,526.5,Inflammatory conditions of jaw
+Exostosis.of.jaw,0,0,0,0,526.8,Exostosis of jaw
+Jaw.disease.NOS,0,0,0,0,526.9,Jaw disease NOS
+Diseases.of.the.salivary.glands,0,0,0,0,527,Diseases of the salivary glands
+Hypertrophy.of.salivary.gland,0,0,0,0,527.1,Hypertrophy of salivary gland
+Sialoadenitis,1,1,0,2,527.2,Sialoadenitis
+Disturbance.of.salivary.secretion,1,3,2,6,527.7,Disturbance of salivary secretion
+Other.specified.diseases.of.the.salivary.glands,0,2,1,3,527.8,Other specified diseases of the salivary glands
+Diseases.of.the.oral.soft.tissues..excluding.lesions.specific.for.gingiva.and.tongue,0,0,1,1,528,"Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue"
+Stomatitis.and.mucositis,0,0,0,0,528.1,Stomatitis and mucositis
+Stomatitis.and.mucositis..ulcerative.,0,0,0,0,528.11,Stomatitis and mucositis (ulcerative)
+Oral.aphthae,0,0,0,0,528.12,Oral aphthae
+Cellulitis.and.abscess.of.oral.soft.tissues,0,0,0,0,528.3,Cellulitis and abscess of oral soft tissues
+Cysts.of.oral.soft.tissues,0,0,0,0,528.4,Cysts of oral soft tissues
+Cyst.of.the.salivary.gland,0,0,1,1,528.41,Cyst of the salivary gland
+Diseases.of.lips,1,0,0,1,528.5,Diseases of lips
+Leukoplakia.of.oral.mucosa,0,0,0,0,528.6,Leukoplakia of oral mucosa
+Sialolithiasis,0,0,0,0,528.7,Sialolithiasis
+Diseases.and.other.conditions.of.the.tongue,0,0,0,0,529,Diseases and other conditions of the tongue
+Glossitis,0,0,0,0,529.1,Glossitis
+Glossodynia,0,0,0,0,529.6,Glossodynia
+Diseases.of.esophagus,0,0,1,1,530,Diseases of esophagus
+Esophagitis..GERD.and.related.diseases,2,0,1,3,530.1,"Esophagitis, GERD and related diseases"
+GERD,3,2,1,6,530.11,GERD
+Ulcer.of.esophagus,0,0,1,1,530.12,Ulcer of esophagus
+Barrett.s.esophagus,2,2,1,5,530.13,Barrett's esophagus
+Reflux.esophagitis,2,1,0,3,530.14,Reflux esophagitis
+Eosinophilic.esophagitis,0,0,0,0,530.15,Eosinophilic esophagitis
+Esophageal.bleeding..varices.hemorrhage.,1,0,2,3,530.2,Esophageal bleeding (varices/hemorrhage)
+Stricture.and.stenosis.of.esophagus,2,1,1,4,530.3,Stricture and stenosis of esophagus
+Disorders.of.esophageal.motility,1,0,0,1,530.5,Disorders of esophageal motility
+Diverticulum.of.esophagus..acquired,0,0,2,2,530.6,"Diverticulum of esophagus, acquired"
+Gastroesophageal.laceration.hemorrhage.syndrome,0,0,1,1,530.7,Gastroesophageal laceration-hemorrhage syndrome
+Heartburn,0,0,1,1,530.9,Heartburn
+Peptic.ulcer..excl..esophageal.,0,0,0,0,531,Peptic ulcer (excl. esophageal)
+Hemorrhage.from.gastrointestinal.ulcer,1,1,0,2,531.1,Hemorrhage from gastrointestinal ulcer
+Gastric.ulcer,0,2,2,4,531.2,Gastric ulcer
+Duodenal.ulcer,3,1,1,5,531.3,Duodenal ulcer
+Peptic.ulcer..site.unspecified,2,1,1,4,531.4,"Peptic ulcer, site unspecified"
+Gastrojejunal.ulcer,0,0,0,0,531.5,Gastrojejunal ulcer
+Dysphagia,3,2,3,8,532,Dysphagia
+Gastritis.and.duodenitis,0,0,0,0,535,Gastritis and duodenitis
+Acute.gastritis,0,0,0,0,535.1,Acute gastritis
+Atrophic.gastritis,0,1,1,2,535.2,Atrophic gastritis
+Duodenitis,0,0,1,1,535.6,Duodenitis
+Other.specified.gastritis,2,3,1,6,535.8,Other specified gastritis
+Gastritis.and.duodenitis..NOS,2,1,1,4,535.9,"Gastritis and duodenitis, NOS"
+Disorders.of.function.of.stomach,0,0,0,0,536,Disorders of function of stomach
+Gastroparesis,0,0,1,1,536.3,Gastroparesis
+Complications.of.gastrostomy..colostomy.and.enterostomy,0,0,1,1,536.7,"Complications of gastrostomy, colostomy and enterostomy"
+Dyspepsia.and.other.specified.disorders.of.function.of.stomach,0,1,1,2,536.8,Dyspepsia and other specified disorders of function of stomach
+Other.disorders.of.stomach.and.duodenum,2,2,0,4,537,Other disorders of stomach and duodenum
+Lesions.of.stomach.and.duodenum,2,0,1,3,537.1,Lesions of stomach and duodenum
+Bariatric.surgery,0,0,0,0,539,Bariatric surgery
+Appendiceal.conditions,0,0,1,1,540,Appendiceal conditions
+Appendicitis,1,1,0,2,540.1,Appendicitis
+Acute.appendicitis,0,0,0,0,540.11,Acute appendicitis
+Abdominal.hernia,1,3,1,5,550,Abdominal hernia
+Inguinal.hernia,0,0,2,2,550.1,Inguinal hernia
+Diaphragmatic.hernia,3,3,2,8,550.2,Diaphragmatic hernia
+Femoral.hernia,0,0,0,0,550.3,Femoral hernia
+Umbilical.hernia,2,1,1,4,550.4,Umbilical hernia
+Ventral.hernia,3,3,2,8,550.5,Ventral hernia
+Incisional.hernia,0,0,0,0,550.6,Incisional hernia
+Inflammatory.bowel.disease.and.other.gastroenteritis.and.colitis,0,0,0,0,555,Inflammatory bowel disease and other gastroenteritis and colitis
+Regional.enteritis,0,0,0,0,555.1,Regional enteritis
+Ulcerative.colitis,2,0,0,2,555.2,Ulcerative colitis
+Ulcerative.colitis..chronic.,0,0,0,0,555.21,Ulcerative colitis (chronic)
+Ulceration.of.the.lower.GI.tract,0,0,0,0,556,Ulceration of the lower GI tract
+Ulceration.of.intestine,0,0,0,0,556.1,Ulceration of intestine
+Angiodysplasia.of.intestine..without.mention.of.hemorrhage.,0,0,1,1,556.11,Angiodysplasia of intestine (without mention of hemorrhage)
+Intestinal.malabsorption..non.celiac.,0,0,0,0,557,Intestinal malabsorption (non-celiac)
+Celiac.disease,2,0,0,2,557.1,Celiac disease
+Noninfectious.gastroenteritis,0,1,0,1,558,Noninfectious gastroenteritis
+Ileostomy.status,0,0,0,0,559,Ileostomy status
+Intestinal.obstruction.without.mention.of.hernia,0,0,0,0,560,Intestinal obstruction without mention of hernia
+Paralytic.ileus,3,3,2,8,560.1,Paralytic ileus
+Impaction.of.intestine,1,1,1,3,560.2,Impaction of intestine
+Peritoneal.or.intestinal.adhesions,2,0,0,2,560.3,Peritoneal or intestinal adhesions
+Other.intestinal.obstruction,2,3,3,8,560.4,Other intestinal obstruction
+Symptoms.involving.digestive.system,2,3,2,7,561,Symptoms involving digestive system
+Diarrhea,2,1,3,6,561.1,Diarrhea
+Flatulence,2,2,2,6,561.2,Flatulence
+Diverticulosis.and.diverticulitis,0,0,0,0,562,Diverticulosis and diverticulitis
+Diverticulosis,0,2,3,5,562.1,Diverticulosis
+Diverticulitis,2,1,3,6,562.2,Diverticulitis
+Constipation,2,3,3,8,563,Constipation
+Functional.digestive.disorders,3,3,0,6,564,Functional digestive disorders
+Irritable.Bowel.Syndrome,2,0,1,3,564.1,Irritable Bowel Syndrome
+Abnormal.findings.on.exam.of.gastrointestinal.tract..abdominal.area,3,3,2,8,564.8,Abnormal findings on exam of gastrointestinal tract/ abdominal area
+Anal.and.rectal.conditions,0,2,1,3,565,Anal and rectal conditions
+Anal.and.rectal.polyp,3,0,0,3,565.1,Anal and rectal polyp
+Peritonitis.and.retroperitoneal.infections,1,1,0,2,567,Peritonitis and retroperitoneal infections
+Other.disorders.of.peritoneum,1,1,0,2,568,Other disorders of peritoneum
+Peritoneal.adhesions..postoperative...postinfection.,0,1,0,1,568.1,Peritoneal adhesions (postoperative) (postinfection)
+Other.disorders.of.intestine,3,3,3,9,569,Other disorders of intestine
+Toxic.gastroenteritis.and.colitis,3,0,2,5,569.1,Toxic gastroenteritis and colitis
+Gastrointestinal.complications,0,0,0,0,569.2,Gastrointestinal complications
+Chronic.liver.disease.and.cirrhosis,0,0,0,0,571,Chronic liver disease and cirrhosis
+Other.chronic.nonalcoholic.liver.disease,3,3,3,9,571.5,Other chronic nonalcoholic liver disease
+Cirrhosis.of.liver.without.mention.of.alcohol,1,2,1,4,571.51,Cirrhosis of liver without mention of alcohol
+Primary.biliary.cirrhosis,0,0,0,0,571.6,Primary biliary cirrhosis
+Liver.abscess.and.sequelae.of.chronic.liver.disease,1,1,1,3,571.8,Liver abscess and sequelae of chronic liver disease
+Portal.hypertension,3,1,0,4,571.81,Portal hypertension
+Ascites..non.malignant.,1,1,1,3,572,Ascites (non malignant)
+Other.disorders.of.liver,1,1,0,2,573,Other disorders of liver
+Chronic.passive.congestion.of.liver,0,1,0,1,573.1,Chronic passive congestion of liver
+Liver.replaced.by.transplant,1,2,0,3,573.2,Liver replaced by transplant
+Hepatomegaly,1,1,1,3,573.3,Hepatomegaly
+Acute.and.subacute.necrosis.of.liver,0,3,1,4,573.4,Acute and subacute necrosis of liver
+Jaundice..not.of.newborn.,1,1,0,2,573.5,Jaundice (not of newborn)
+Abnormal.results.of.function.study.of.liver,2,3,3,8,573.7,Abnormal results of function study of liver
+Cholelithiasis.and.cholecystitis,0,0,0,0,574,Cholelithiasis and cholecystitis
+Cholelithiasis,0,3,1,4,574.1,Cholelithiasis
+Cholelithiasis.with.acute.cholecystitis,0,0,1,1,574.11,Cholelithiasis with acute cholecystitis
+Cholelithiasis.with.other.cholecystitis,0,0,1,1,574.12,Cholelithiasis with other cholecystitis
+Calculus.of.bile.duct,0,0,1,1,574.2,Calculus of bile duct
+Cholecystitis.without.cholelithiasis,0,2,0,2,574.3,Cholecystitis without cholelithiasis
+Other.biliary.tract.disease,0,0,0,0,575,Other biliary tract disease
+Cholangitis,0,0,0,0,575.1,Cholangitis
+Obstruction.of.bile.duct,0,1,0,1,575.2,Obstruction of bile duct
+Cholesterolosis.of.gallbladder,0,0,0,0,575.6,Cholesterolosis of gallbladder
+Other.disorders.of.gallbladder,1,1,1,3,575.7,Other disorders of gallbladder
+Other.disorders.of.biliary.tract,1,1,1,3,575.8,Other disorders of biliary tract
+Nonspecific.abnormal.findings.on.radiological.and.other.examination.of.biliary.tract,0,1,2,3,575.9,Nonspecific abnormal findings on radiological and other examination of biliary tract
+Diseases.of.pancreas,1,1,0,2,577,Diseases of pancreas
+Acute.pancreatitis,0,1,1,2,577.1,Acute pancreatitis
+Chronic.pancreatitis,0,1,0,1,577.2,Chronic pancreatitis
+Cyst.and.pseudocyst.of.pancreas,2,0,2,4,577.3,Cyst and pseudocyst of pancreas
+Gastrointestinal.hemorrhage,0,0,0,0,578,Gastrointestinal hemorrhage
+Hematemesis,0,1,1,2,578.1,Hematemesis
+Blood.in.stool,2,3,3,8,578.2,Blood in stool
+Hemorrhage.of.rectum.and.anus,0,3,1,4,578.8,Hemorrhage of rectum and anus
+Hemorrhage.of.gastrointestinal.tract,3,3,3,9,578.9,Hemorrhage of gastrointestinal tract
+Other.symptoms.involving.abdomen.and.pelvis,2,1,3,6,579,Other symptoms involving abdomen and pelvis
+Splenomegaly,1,1,1,3,579.2,Splenomegaly
+Nonspecific.abnormal.findings.in.stool.contents,0,1,0,1,579.8,Nonspecific abnormal findings in stool contents
+Nephritis..nephrosis..renal.sclerosis,0,0,0,0,580,Nephritis; nephrosis; renal sclerosis
+Glomerulonephritis,0,0,0,0,580.1,Glomerulonephritis
+Proliferative.glomerulonephritis,0,0,0,0,580.11,Proliferative glomerulonephritis
+Non.proliferative.glomerulonephritis,1,0,0,1,580.12,Non-proliferative glomerulonephritis
+Acute.glomerulonephritis..NOS,0,0,0,0,580.13,"Acute glomerulonephritis, NOS"
+Chronic.glomerulonephritis..NOS,0,0,0,0,580.14,"Chronic glomerulonephritis, NOS"
+Nephrotic.syndrome.without.mention.of.glomerulonephritis,0,0,0,0,580.2,Nephrotic syndrome without mention of glomerulonephritis
+Nephritis.and.nephropathy.without.mention.of.glomerulonephritis,0,0,0,0,580.3,Nephritis and nephropathy without mention of glomerulonephritis
+Nephritis.and.nephropathy.in.diseases.classified.elsewhere,1,1,3,5,580.31,Nephritis and nephropathy in diseases classified elsewhere
+Nephritis.and.nephropathy.with.pathological.lesion,0,0,0,0,580.32,Nephritis and nephropathy with pathological lesion
+Renal.sclerosis..NOS,0,1,1,2,580.4,"Renal sclerosis, NOS"
+Renal.failure,0,0,0,0,585,Renal failure
+Acute.renal.failure,3,3,2,8,585.1,Acute renal failure
+Renal.failure.NOS,3,1,1,5,585.2,Renal failure NOS
+Chronic.renal.failure..CKD.,3,3,2,8,585.3,Chronic renal failure [CKD]
+Renal.dialysis,1,1,1,3,585.31,Renal dialysis
+End.stage.renal.disease,3,2,3,8,585.32,End stage renal disease
+Chronic.Kidney.Disease..Stage.III,2,3,3,8,585.33,"Chronic Kidney Disease, Stage III"
+Chronic.Kidney.Disease..Stage.IV,3,1,3,7,585.34,"Chronic Kidney Disease, Stage IV"
+Chronic.kidney.disease..Stage.I.or.II,0,1,1,2,585.4,"Chronic kidney disease, Stage I or II"
+Other.disorders.of.the.kidney.and.ureters,3,3,1,7,586,Other disorders of the kidney and ureters
+Anatomical.abnormatilies.of.kidney.and.ureters,0,0,0,0,586.1,Anatomical abnormatilies of kidney and ureters
+Small.kidney,0,0,0,0,586.11,Small kidney
+Vesicoureteral.reflux,0,0,0,0,586.12,Vesicoureteral reflux
+Cyst.of.kidney..acquired,3,3,1,7,586.2,"Cyst of kidney, acquired"
+Vascular.disorders.of.kidney.hypertrophy,0,0,0,0,586.3,Vascular disorders of kidney/hypertrophy
+Stricture.obstruction.of.ureter,1,0,2,3,586.4,Stricture/obstruction of ureter
+Kidney.replaced.by.transpant,1,0,0,1,587,Kidney replaced by transpant
+Disorders.resulting.from.impaired.renal.function,0,0,2,2,588,Disorders resulting from impaired renal function
+Renal.osteodystrophy,2,1,0,3,588.1,Renal osteodystrophy
+Secondary.hyperparathyroidism..of.renal.origin.,0,0,1,1,588.2,Secondary hyperparathyroidism (of renal origin)
+Abnormal.results.of.function.study.of.kidney,0,3,0,3,589,Abnormal results of function study of kidney
+Pyelonephritis,0,1,0,1,590,Pyelonephritis
+Urinary.tract.infection,2,3,3,8,591,Urinary tract infection
+Cystitis.and.urethritis,0,0,0,0,592,Cystitis and urethritis
+Cystitis,0,0,1,1,592.1,Cystitis
+Acute.cystitis,0,0,0,0,592.11,Acute cystitis
+Chronic.cystitis,0,0,0,0,592.12,Chronic cystitis
+Chronic.interstitial.cystitis,0,0,0,0,592.13,Chronic interstitial cystitis
+Urethritis.and.urethral.syndrome,0,0,0,0,592.2,Urethritis and urethral syndrome
+Urethral.syndrome,0,0,0,0,592.21,Urethral syndrome
+Urethral.stricture.due.to.infecton,2,1,0,3,592.3,Urethral stricture due to infecton
+Hematuria,0,0,2,2,593,Hematuria
+Gross.hematuria,0,0,1,1,593.1,Gross hematuria
+Microscopic.hematuria,0,0,0,0,593.2,Microscopic hematuria
+Urinary.calculus,0,0,0,0,594,Urinary calculus
+Calculus.of.kidney,1,2,2,5,594.1,Calculus of kidney
+Calculus.of.lower.urinary.tract,0,0,0,0,594.2,Calculus of lower urinary tract
+Calculus.of.ureter,0,0,0,0,594.3,Calculus of ureter
+Renal.colic,0,0,2,2,594.8,Renal colic
+Hydronephrosis,0,1,0,1,595,Hydronephrosis
+Other.disorders.of.bladder,1,0,0,1,596,Other disorders of bladder
+Bladder.neck.obstruction,0,0,0,0,596.1,Bladder neck obstruction
+Functional.disorders.of.bladder,3,3,2,8,596.5,Functional disorders of bladder
+Other.disorders.of.urethra.and.urinary.tract,2,1,0,3,597,Other disorders of urethra and urinary tract
+Urethral.stricture..not.specified.as.infectious.,0,0,0,0,597.1,Urethral stricture (not specified as infectious)
+Urinary.complications.NEC,0,0,1,1,597.2,Urinary complications NEC
+Urethral.hypermobility.ISD,2,1,2,5,597.8,Urethral hypermobility/ISD
+Abnormal.findings.on.examination.of.urine,0,0,0,0,598,Abnormal findings on examination of urine
+Other.cells.and.casts.in.urine,0,0,0,0,598.4,Other cells and casts in urine
+Other.nonspecific.findings.on.examination.of.urine,2,1,3,6,598.9,Other nonspecific findings on examination of urine
+Other.symptoms.disorders.or.the.urinary.system,0,2,0,2,599,Other symptoms/disorders or the urinary system
+Urinary.obstruction,0,1,1,2,599.1,Urinary obstruction
+Retention.of.urine,2,0,3,5,599.2,Retention of urine
+Dysuria,2,3,0,5,599.3,Dysuria
+Urinary.incontinence,3,3,3,9,599.4,Urinary incontinence
+Frequency.of.urination.and.polyuria,3,2,3,8,599.5,Frequency of urination and polyuria
+Oliguria.and.anuria,0,1,0,1,599.6,Oliguria and anuria
+Urethral.discharge,0,0,0,0,599.7,Urethral discharge
+Other.symptoms.involving.urinary.system,0,2,3,5,599.8,Other symptoms involving urinary system
+Other.abnormality.of.urination,0,2,1,3,599.9,Other abnormality of urination
+Hyperplasia.of.prostate,3,3,3,9,600,Hyperplasia of prostate
+Prostatitis,1,1,2,4,601.1,Prostatitis
+Acute.prostatitis,0,0,0,0,601.11,Acute prostatitis
+Chronic.prostatitis,0,0,0,0,601.12,Chronic prostatitis
+Orchitis.and.epididymitis,0,0,0,0,601.3,Orchitis and epididymitis
+Balanoposthitis,0,0,0,0,601.4,Balanoposthitis
+Other.inflammatory.disorders.of.male.genital.organs,1,0,0,1,601.8,Other inflammatory disorders of male genital organs
+Other.disorders.of.prostate,0,1,1,2,602,Other disorders of prostate
+Dysplasia.of.prostate,0,1,0,1,602.3,Dysplasia of prostate
+Other.disorders.of.testis,2,0,2,4,603,Other disorders of testis
+Hydrocele,0,2,0,2,603.1,Hydrocele
+Spermatocele,0,0,0,0,603.2,Spermatocele
+Disorders.of.penis,0,0,1,1,604,Disorders of penis
+Redundant.prepuce.and.phimosis.BXO,0,0,0,0,604.1,Redundant prepuce and phimosis/BXO
+Vascular.disorders.of.penis,0,0,0,0,604.2,Vascular disorders of penis
+Peyronie.s.disease,0,0,0,0,604.3,Peyronie's disease
+Erectile.dysfunction..ED.,1,3,2,6,605,Erectile dysfunction [ED]
+Other.disorders.of.male.genital.organs,2,0,1,3,608,Other disorders of male genital organs
+Male.infertility.and.abnormal.spermatozoa,0,0,0,0,609,Male infertility and abnormal spermatozoa
+Infertility..male,0,0,0,0,609.1,"Infertility, male"
+Azoospermia.and.oligospermia,0,0,0,0,609.11,Azoospermia and oligospermia
+Abnormal.spermatozoa,0,0,0,0,609.2,Abnormal spermatozoa
+Cystic.mastopathy,0,0,0,0,610.1,Cystic mastopathy
+Fibroadenosis.of.breast,0,0,0,0,610.2,Fibroadenosis of breast
+Fibrosclerosis.of.breast,0,0,0,0,610.3,Fibrosclerosis of breast
+Benign.neoplasm.of.breast,0,0,0,0,610.4,Benign neoplasm of breast
+Other.specified.benign.mammary.dysplasias,0,0,0,0,610.8,Other specified benign mammary dysplasias
+Abnormal.findings.on.mammogram.or.breast.exam,0,0,0,0,611,Abnormal findings on mammogram or breast exam
+Abnormal.mammogram,0,1,0,1,611.1,Abnormal mammogram
+Mammographic.microcalcification,0,0,0,0,611.11,Mammographic microcalcification
+Lump.or.mass.in.breast,0,1,0,1,611.3,Lump or mass in breast
+Breast.conditions..congenital.or.relating.to.hormones,0,0,0,0,612,"Breast conditions, congenital or relating to hormones"
+Galactorrhea,0,0,0,0,612.1,Galactorrhea
+Hypertrophy.of.breast..Gynecomastia.,0,0,0,0,612.2,Hypertrophy of breast (Gynecomastia)
+Congenital.anomalies.of.breast,0,0,0,0,612.3,Congenital anomalies of breast
+Other.nonmalignant.breast.conditions,0,0,0,0,613,Other nonmalignant breast conditions
+Inflammatory.disease.of.breast,0,0,0,0,613.1,Inflammatory disease of breast
+Mastodynia,0,1,0,1,613.5,Mastodynia
+Other.signs.and.symptoms.in.breast,0,0,0,0,613.7,Other signs and symptoms in breast
+Other.specified.disorders.of.breast,0,0,0,0,613.8,Other specified disorders of breast
+Breast.disorder.NOS,0,0,0,0,613.9,Breast disorder NOS
+Inflammatory.diseases.of.female.pelvic.organs,0,0,0,0,614,Inflammatory diseases of female pelvic organs
+Pelvic.peritoneal.adhesions..female..postoperative...postinfection.,0,0,0,0,614.1,"Pelvic peritoneal adhesions, female (postoperative) (postinfection)"
+Pelvic.inflammatory.disease..PID.,0,0,0,0,614.3,Pelvic inflammatory disease (PID)
+Acute.inflammatory.pelvic.disease,0,0,0,0,614.31,Acute inflammatory pelvic disease
+Chronic.inflammatory.pelvic.disease,0,0,0,0,614.32,Chronic inflammatory pelvic disease
+Pelvic.inflammatory.disease..NOS,0,0,0,0,614.33,"Pelvic inflammatory disease, NOS"
+Inflammatory.diseases.of.uterus..except.cervix,0,0,0,0,614.4,"Inflammatory diseases of uterus, except cervix"
+Inflammatory.disease.of.cervix..vagina..and.vulva,1,0,1,2,614.5,"Inflammatory disease of cervix, vagina, and vulva"
+Cervicitis.and.endocervicitis,0,0,0,0,614.51,Cervicitis and endocervicitis
+Vaginitis.and.vulvovaginitis,0,1,0,1,614.52,Vaginitis and vulvovaginitis
+Cyst.or.abscess.of.Bartholin.s.gland,0,0,0,0,614.53,Cyst or abscess of Bartholin's gland
+Abscess.or.ulceration.of.vulva,0,2,0,2,614.54,Abscess or ulceration of vulva
+Endometriosis,0,0,0,0,615,Endometriosis
+Disorders.secondary.to.childbirth..surgery..trauma,0,0,0,0,617,"Disorders secondary to childbirth, surgery, trauma"
+Genital.prolapse,0,3,1,4,618,Genital prolapse
+Prolapse.of.vaginal.walls,0,1,0,1,618.1,Prolapse of vaginal walls
+Uterine.Uterovaginal.prolapse,2,1,0,3,618.2,Uterine/Uterovaginal prolapse
+Prolapse.of.vaginal.vault.after.hysterectomy,0,0,0,0,618.5,Prolapse of vaginal vault after hysterectomy
+Vaginal.enterocele..congenital.or.acquired,0,0,0,0,618.6,"Vaginal enterocele, congenital or acquired"
+Noninflammatory.female.genital.disorders,0,0,0,0,619,Noninflammatory female genital disorders
+Noninflammatory.disorders.of.ovary..fallopian.tube..and.broad.ligament,0,1,0,1,619.1,"Noninflammatory disorders of ovary, fallopian tube, and broad ligament"
+Disorders.of.uterus..NEC,0,0,0,0,619.2,"Disorders of uterus, NEC"
+Noninflammatory.disorders.of.cervix,0,0,0,0,619.3,Noninflammatory disorders of cervix
+Noninflammatory.disorders.of.vagina,1,1,0,2,619.4,Noninflammatory disorders of vagina
+Noninflammatory.disorders.of.vulva.and.perineum,0,0,0,0,619.5,Noninflammatory disorders of vulva and perineum
+Dysplasia.of.female.genital.organs,0,0,0,0,620,Dysplasia of female genital organs
+Endometrial.hyperplasia,0,0,0,0,621,Endometrial hyperplasia
+Polyp.of.female.genital.organs,0,0,0,0,622,Polyp of female genital organs
+Polyp.of.corpus.uteri,0,0,0,0,622.1,Polyp of corpus uteri
+Mucous.polyp.of.cervix,0,0,0,0,622.2,Mucous polyp of cervix
+Hypertrophy.of.female.genital.organs,0,0,0,0,623,Hypertrophy of female genital organs
+Symptoms.involving.female.genital.tract,0,0,0,0,624,Symptoms involving female genital tract
+Dystrophy.of.female.genital.tract,0,0,0,0,624.1,Dystrophy of female genital tract
+Atrophy.of.female.genital.tract,0,0,0,0,624.2,Atrophy of female genital tract
+stress.incontinence..female,2,0,2,4,624.9,"stress incontinence, female"
+Pain.and.other.symptoms.associated.with.female.genital.organs,0,1,1,2,625,Pain and other symptoms associated with female genital organs
+Dyspareunia,0,0,0,0,625.1,Dyspareunia
+Disorders.of.menstruation.and.other.abnormal.bleeding.from.female.genital.tract,0,0,1,1,626,Disorders of menstruation and other abnormal bleeding from female genital tract
+Irregular.menstrual.cycle.bleeding,0,0,0,0,626.1,Irregular menstrual cycle/bleeding
+Absent.or.infrequent.menstruation,0,0,0,0,626.11,Absent or infrequent menstruation
+Excessive.or.frequent.menstruation,0,0,0,0,626.12,Excessive or frequent menstruation
+Irregular.menstrual.cycle,0,0,0,0,626.13,Irregular menstrual cycle
+Irregular.menstrual.bleeding,0,0,0,0,626.14,Irregular menstrual bleeding
+Infertility..female..associated.with.anovulation,0,0,0,0,626.15,"Infertility, female, associated with anovulation"
+Dysmenorrhea,0,0,0,0,626.2,Dysmenorrhea
+Premenstrual.tension.syndromes,0,0,0,0,626.4,Premenstrual tension syndromes
+Infertility..female,0,0,0,0,626.8,"Infertility, female"
+Menopausal.and.postmenopausal.disorders,0,0,0,0,627,Menopausal and postmenopausal disorders
+Postmenopausal.bleeding,0,1,0,1,627.1,Postmenopausal bleeding
+Symptomatic.menopause,2,1,2,5,627.2,Symptomatic menopause
+Symptomatic.artificial.menopause,0,0,0,0,627.21,Symptomatic artificial menopause
+Postmenopausal.atrophic.vaginitis,1,1,2,4,627.3,Postmenopausal atrophic vaginitis
+Premenopausal.menorrhagia,0,0,0,0,627.4,Premenopausal menorrhagia
+Premature.menopause.and.other.ovarian.failure,1,1,0,2,627.5,Premature menopause and other ovarian failure
+Ovarian.cyst,0,0,0,0,628,Ovarian cyst
+Miscarriage..stillbirth,0,0,0,0,634,Miscarriage; stillbirth
+Missed.abortion.Hydatidiform.mole,0,0,0,0,634.1,Missed abortion/Hydatidiform mole
+Ectopic.pregnancy,0,0,0,0,634.3,Ectopic pregnancy
+Antepartum.hemorrhage..abruptio.placentae..and.placenta.previa,0,0,0,0,635.2,"Antepartum hemorrhage, abruptio placentae, and placenta previa"
+Placenta.previa.and.abruptio.placenta,1,0,0,1,635.3,Placenta previa and abruptio placenta
+Early.or.threatened.labor..hemorrhage.in.early.pregnancy,0,0,0,0,636,Early or threatened labor; hemorrhage in early pregnancy
+Threatened.premature.labor,0,0,0,0,636.1,Threatened premature labor
+Early.onset.of.delivery,0,0,0,0,636.2,Early onset of delivery
+Hemorrhage.in.early.pregnancy,0,0,0,0,636.3,Hemorrhage in early pregnancy
+Cervical.incompetence,0,0,0,0,636.8,Cervical incompetence
+Complications.following.abortion.or.ectopic.and.molar.pregnancies,0,0,0,0,639,Complications following abortion or ectopic and molar pregnancies
+Hypertension.complicating.pregnancy..childbirth..and.the.puerperium,0,0,0,0,642,"Hypertension complicating pregnancy, childbirth, and the puerperium"
+Preeclampsia.and.eclampsia,0,0,0,0,642.1,Preeclampsia and eclampsia
+Hyperemesis.gravidarum,0,0,0,0,643.1,Hyperemesis gravidarum
+Anemia.during.pregnancy,2,1,0,3,644,Anemia during pregnancy
+Late.pregnancy.and.failed.induction,2,1,1,4,645,Late pregnancy and failed induction
+Other.complications.of.pregnancy.NEC,0,0,0,0,646,Other complications of pregnancy NEC
+Infectious.and.parasitic.complications.affecting.pregnancy,1,2,0,3,647,Infectious and parasitic complications affecting pregnancy
+Infections.of.genitourinary.tract.during.pregnancy,0,0,0,0,647.1,Infections of genitourinary tract during pregnancy
+Major.puerperal.infection,0,0,0,0,647.3,Major puerperal infection
+Other.conditions.or.status.of.the.mother.complicating.pregnancy..childbirth..or.the.puerperium,0,0,2,2,649,"Other conditions or status of the mother complicating pregnancy, childbirth, or the puerperium"
+Diabetes.or.abnormal.glucose.tolerance.complicating.pregnancy,0,0,0,0,649.1,Diabetes or abnormal glucose tolerance complicating pregnancy
+Normal.delivery,2,0,0,2,650,Normal delivery
+Multiple.gestation,0,0,0,0,651,Multiple gestation
+Malposition.and.malpresentation.of.fetus.or.obstruction,0,0,0,0,652,Malposition and malpresentation of fetus or obstruction
+Problems.associated.with.amniotic.cavity.and.membranes,0,0,0,0,653,Problems associated with amniotic cavity and membranes
+Other.and.unspecified.complications.of.birth..puerperium.affecting.management.of.mother,0,0,0,0,654,Other and unspecified complications of birth; puerperium affecting management of mother
+Abnormality.of.organs.and.soft.tissues.of.pelvis.complicating.pregnancy..childbirth..or.the.puerperium,0,0,2,2,654.1,"Abnormality of organs and soft tissues of pelvis complicating pregnancy, childbirth, or the puerperium"
+Rhesus.isoimmunization.in.pregnancy,0,0,0,0,654.2,Rhesus isoimmunization in pregnancy
+Known.or.suspected.fetal.abnormality.affecting.management.of.mother,0,0,0,0,655,Known or suspected fetal abnormality affecting management of mother
+Abnormality.in.fetal.heart.rate.or.rhythm,0,0,0,0,655.1,Abnormality in fetal heart rate or rhythm
+Other.perinatal.conditions.of.fetus.or.newborn,0,0,0,0,656,Other perinatal conditions of fetus or newborn
+Maternal.complication.of.pregnancy.affecting.fetus.or.newborn,0,0,0,0,658,Maternal complication of pregnancy affecting fetus or newborn
+Fetal.distress.and.abnormal.forces.of.labor,0,0,0,0,661,Fetal distress and abnormal forces of labor
+Umbilical.cord.complications.during.labor.and.delivery,0,0,0,0,663,Umbilical cord complications during labor and delivery
+Obstetrical.birth.trauma,0,0,0,0,665,Obstetrical/birth trauma
+Complications.of.labor.and.delivery.NEC,0,0,0,0,669,Complications of labor and delivery NEC
+Venous.cerebrovascular.complications.embolism.in.pregnancy.and.the.puerperium,0,0,0,0,671,Venous/cerebrovascular complications embolism in pregnancy and the puerperium
+Other.complications.of.the.puerperium.NEC,0,0,0,0,674,Other complications of the puerperium NEC
+Other.disorders.of.the.breast.associated.with.childbirth.and.disorders.of.lactation,0,0,0,0,676,Other disorders of the breast associated with childbirth and disorders of lactation
+Superficial.cellulitis.and.abscess,2,1,3,6,681,Superficial cellulitis and abscess
+Cellulitis.and.abscess.of.fingers.toes,0,1,1,2,681.1,Cellulitis and abscess of fingers/toes
+Cellulitis.and.abscess.of.face.neck,0,1,1,2,681.2,Cellulitis and abscess of face/neck
+Cellulitis.and.abscess.of.arm.hand,0,1,1,2,681.3,Cellulitis and abscess of arm/hand
+Cellulitis.and.abscess.of.leg..except.foot,2,1,3,6,681.5,"Cellulitis and abscess of leg, except foot"
+Cellulitis.and.abscess.of.foot..toe,0,1,1,2,681.6,"Cellulitis and abscess of foot, toe"
+Cellulitis.and.abscess.of.trunk,1,1,1,3,681.7,Cellulitis and abscess of trunk
+Other.local.infections.of.skin.and.subcutaneous.tissue,2,3,2,7,686,Other local infections of skin and subcutaneous tissue
+Carbuncle.and.furuncle,0,0,1,1,686.1,Carbuncle and furuncle
+Impetigo,0,0,0,0,686.2,Impetigo
+Pilonidal.cyst,0,0,0,0,686.3,Pilonidal cyst
+Pyogenic.granuloma,0,0,0,0,686.4,Pyogenic granuloma
+Pyoderma,0,0,0,0,686.5,Pyoderma
+Symptoms.affecting.skin,0,2,1,3,687,Symptoms affecting skin
+Rash.and.other.nonspecific.skin.eruption,0,3,2,5,687.1,Rash and other nonspecific skin eruption
+Localized.superficial.swelling..mass..or.lump,0,1,0,1,687.2,"Localized superficial swelling, mass, or lump"
+Changes.in.skin.texture,0,0,0,0,687.3,Changes in skin texture
+Disturbance.of.skin.sensation,3,3,3,9,687.4,Disturbance of skin sensation
+Disorder.of.skin.and.subcutaneous.tissue.NOS,0,3,2,5,689,Disorder of skin and subcutaneous tissue NOS
+Erythematosquamous.dermatosis,0,0,0,0,690,Erythematosquamous dermatosis
+Seborrheic.dermatitis,0,3,1,4,690.1,Seborrheic dermatitis
+Congenital.anomalies.of.skin,2,0,0,2,691,Congenital anomalies of skin
+Ichthyosis.congenita,0,0,0,0,691.1,Ichthyosis congenita
+Congenital.pigmentary.anomalies.of.skin,0,0,0,0,691.3,Congenital pigmentary anomalies of skin
+Dyschromia.and.Vitiligo,0,0,0,0,694,Dyschromia and Vitiligo
+Vitiligo,0,0,0,0,694.1,Vitiligo
+Other.dyschromia,0,0,2,2,694.2,Other dyschromia
+Vascular.disorders.of.skin,0,0,0,0,694.3,Vascular disorders of skin
+Erythematous.conditions,0,0,0,0,695,Erythematous conditions
+Toxic.erythema,0,0,0,0,695.1,Toxic erythema
+Bullous.dermatoses,0,0,0,0,695.2,Bullous dermatoses
+Dermatitis.herpetiformis,0,0,0,0,695.21,Dermatitis herpetiformis
+Pemphigus.and.pemphigoid,0,0,0,0,695.22,Pemphigus and pemphigoid
+Rosacea,0,0,0,0,695.3,Rosacea
+Lupus..localized.and.systemic.,0,0,0,0,695.4,Lupus (localized and systemic)
+Cutaneous.lupus.erythematosus,0,0,0,0,695.41,Cutaneous lupus erythematosus
+Systemic.lupus.erythematosus,2,1,0,3,695.42,Systemic lupus erythematosus
+Prurigo.and.Lichen,0,1,0,1,695.7,Prurigo and Lichen
+Other.specified.erythematous.conditions,0,0,0,0,695.8,Other specified erythematous conditions
+Erythema.nodosum,0,0,0,0,695.81,Erythema nodosum
+Unspecified.erythematous.condition,1,2,3,6,695.9,Unspecified erythematous condition
+Psoriasis.and.related.disorders,0,0,0,0,696,Psoriasis and related disorders
+Parapsoriasis,0,0,0,0,696.2,Parapsoriasis
+Pityriasis,0,0,0,0,696.3,Pityriasis
+Psoriasis,0,0,1,1,696.4,Psoriasis
+Psoriasis.vulgaris,0,0,0,0,696.41,Psoriasis vulgaris
+Psoriatic.arthropathy,0,1,0,1,696.42,Psoriatic arthropathy
+Sarcoidosis,0,0,0,0,697,Sarcoidosis
+Pruritus.and.related.conditions,2,3,1,6,698,Pruritus and related conditions
+Corns.and.callosities,0,1,0,1,700,Corns and callosities
+Other.hypertrophic.and.atrophic.conditions.of.skin,0,0,0,0,701,Other hypertrophic and atrophic conditions of skin
+Keratoderma..acquired,0,0,1,1,701.1,"Keratoderma, acquired"
+Scar.conditions.and.fibrosis.of.skin,0,0,1,1,701.2,Scar conditions and fibrosis of skin
+Circumscribed.scleroderma,0,0,0,0,701.3,Circumscribed scleroderma
+Keloid.scar,0,0,0,0,701.4,Keloid scar
+Abnormal.granulation.tissue,0,0,0,0,701.5,Abnormal granulation tissue
+Acquired.acanthosis.nigricans,0,0,0,0,701.6,Acquired acanthosis nigricans
+Degenerative.skin.conditions.and.other.dermatoses,2,0,0,2,702,Degenerative skin conditions and other dermatoses
+Actinic.keratosis,2,1,3,6,702.1,Actinic keratosis
+Seborrheic.keratosis,0,1,1,2,702.2,Seborrheic keratosis
+Degenerative.skin.disorders,0,0,0,0,702.4,Degenerative skin disorders
+Diseases.of.nail..NOS,2,1,0,3,703,"Diseases of nail, NOS"
+Ingrowing.nail,0,1,0,1,703.1,Ingrowing nail
+Diseases.of.hair.and.hair.follicles,0,0,1,1,704,Diseases of hair and hair follicles
+Alopecia,0,1,0,1,704.1,Alopecia
+Alopecia.Areata,0,0,0,0,704.11,Alopecia Areata
+Telogen.effluvium,0,0,0,0,704.12,Telogen effluvium
+Hirsutism,0,0,0,0,704.2,Hirsutism
+Other.specified.diseases.of.hair.and.hair.follicles,0,0,0,0,704.8,Other specified diseases of hair and hair follicles
+Disorders.of.sweat.glands,0,0,0,0,705,Disorders of sweat glands
+Dyshidrosis,0,0,0,0,705.1,Dyshidrosis
+Hidradenitis,0,0,0,0,705.3,Hidradenitis
+Hyperhidrosis,0,1,1,2,705.8,Hyperhidrosis
+Diseases.of.sebaceous.glands,0,0,0,0,706,Diseases of sebaceous glands
+Acne,0,0,1,1,706.1,Acne
+Sebaceous.cyst,1,0,0,1,706.2,Sebaceous cyst
+Seborrhea,0,0,0,0,706.3,Seborrhea
+Other.specified.diseases.of.sebaceous.glands,1,1,1,3,706.8,Other specified diseases of sebaceous glands
+Chronic.ulcer.of.skin,0,0,0,0,707,Chronic ulcer of skin
+Decubitus.ulcer,3,3,3,9,707.1,Decubitus ulcer
+Chronic.ulcer.of.leg.or.foot,2,2,1,5,707.2,Chronic ulcer of leg or foot
+Chronic.ulcer.of.unspecified.site,0,2,1,3,707.3,Chronic ulcer of unspecified site
+Diffuse.diseases.of.connective.tissue,0,0,0,0,709,Diffuse diseases of connective tissue
+Sicca.syndrome,0,0,0,0,709.2,Sicca syndrome
+Systemic.sclerosis,0,0,0,0,709.3,Systemic sclerosis
+Polymyositis,0,0,0,0,709.4,Polymyositis
+Dermatomyositis,0,0,0,0,709.5,Dermatomyositis
+Other.specified.diffuse.diseases.of.connective.tissue,0,0,0,0,709.6,Other specified diffuse diseases of connective tissue
+Unspecified.diffuse.connective.tissue.disease,0,0,0,0,709.7,Unspecified diffuse connective tissue disease
+Osteomyelitis..periostitis..and.other.infections.involving.bone,0,1,2,3,710,"Osteomyelitis, periostitis, and other infections involving bone"
+Acute.osteomyelitis,0,1,1,2,710.11,Acute osteomyelitis
+Chronic.osteomyelitis,0,0,1,1,710.12,Chronic osteomyelitis
+Unspecified.osteomyelitis,1,3,1,5,710.19,Unspecified osteomyelitis
+Periostitis,0,0,0,0,710.2,Periostitis
+Osteopathy.resulting.from.poliomyelitis,0,0,0,0,710.3,Osteopathy resulting from poliomyelitis
+Arthropathy.associated.with.infections,0,0,0,0,711,Arthropathy associated with infections
+Pyogenic.arthritis,0,0,0,0,711.1,Pyogenic arthritis
+Reiter.s.disease,0,0,0,0,711.2,Reiter's disease
+Behcet.s.syndrome,0,0,0,0,711.3,Behcet's syndrome
+Infective.connective.tissue.disorders,0,0,1,1,712,Infective connective tissue disorders
+Arthropathy.associated.with.other.disorders.classified.elsewhere,0,0,0,0,713,Arthropathy associated with other disorders classified elsewhere
+Arthropathy.associated.with.neurological.disorders,0,0,0,0,713.5,Arthropathy associated with neurological disorders
+Rheumatoid.arthritis.and.other.inflammatory.polyarthropathies,0,2,0,2,714,Rheumatoid arthritis and other inflammatory polyarthropathies
+Rheumatoid.arthritis,0,1,0,1,714.1,Rheumatoid arthritis
+Juvenile.rheumatoid.arthritis,0,0,0,0,714.2,Juvenile rheumatoid arthritis
+Other.inflammatory.spondylopathies,0,0,0,0,715,Other inflammatory spondylopathies
+Sacroiliitis.NEC,3,0,0,3,715.1,Sacroiliitis NEC
+Ankylosing.spondylitis,0,0,0,0,715.2,Ankylosing spondylitis
+Other.arthropathies,0,0,0,0,716,Other arthropathies
+Unspecified.polyarthropathy.or.polyarthritis,0,0,0,0,716.1,Unspecified polyarthropathy or polyarthritis
+Unspecified.monoarthritis,2,3,3,8,716.2,Unspecified monoarthritis
+Kaschin.Beck.disease,0,0,0,0,716.3,Kaschin-Beck disease
+Palindromic.rheumatism,0,0,0,0,716.8,Palindromic rheumatism
+Arthropathy.NOS,2,3,3,8,716.9,Arthropathy NOS
+Polymyalgia.Rheumatica,0,0,0,0,717,Polymyalgia Rheumatica
+Spinal.stenosis,0,0,3,3,720,Spinal stenosis
+Spinal.stenosis.of.lumbar.region,2,3,1,6,720.1,Spinal stenosis of lumbar region
+Spondylosis.and.allied.disorders,0,0,1,1,721,Spondylosis and allied disorders
+Spondylosis.without.myelopathy,1,2,1,4,721.1,Spondylosis without myelopathy
+Spondylosis.with.myelopathy,1,1,0,2,721.2,Spondylosis with myelopathy
+Other.allied.disorders.of.spine,0,0,0,0,721.8,Other allied disorders of spine
+Intervertebral.disc.disorders,0,0,0,0,722,Intervertebral disc disorders
+Displacement.of.intervertebral.disc,3,0,0,3,722.1,Displacement of intervertebral disc
+Schmorl.s.nodes,0,0,0,0,722.3,Schmorl's nodes
+Degeneration.of.intervertebral.disc,1,3,3,7,722.6,Degeneration of intervertebral disc
+Intervertebral.disc.disorder.with.myelopathy,0,0,0,0,722.7,Intervertebral disc disorder with myelopathy
+Postlaminectomy.syndrome,0,0,1,1,722.8,Postlaminectomy syndrome
+Other.and.unspecified.disc.disorder,0,0,1,1,722.9,Other and unspecified disc disorder
+Other.disorders.of.cervical.region,0,0,0,0,723,Other disorders of cervical region
+Torticollis,2,2,0,4,723.1,Torticollis
+Other.and.unspecified.disorders.of.back,0,0,0,0,724,Other and unspecified disorders of back
+Disorders.of.sacrum,0,0,0,0,724.1,Disorders of sacrum
+Disorders.of.coccyx,0,0,0,0,724.2,Disorders of coccyx
+Other.symptoms.referable.to.back,0,0,0,0,724.8,Other symptoms referable to back
+Other.unspecified.back.disorders,0,0,0,0,724.9,Other unspecified back disorders
+Peripheral.enthesopathies.and.allied.syndromes,0,3,2,5,726,Peripheral enthesopathies and allied syndromes
+Enthesopathy,2,1,0,3,726.1,Enthesopathy
+Synoviopathy,0,0,0,0,726.2,Synoviopathy
+Bursitis,0,0,0,0,726.3,Bursitis
+Calcaneal.spur..Exostosis.NOS,0,1,0,1,726.4,Calcaneal spur; Exostosis NOS
+Other.disorders.of.synovium..tendon..and.bursa,0,0,0,0,727,"Other disorders of synovium, tendon, and bursa"
+Synovitis.and.tenosynovitis,0,3,0,3,727.1,Synovitis and tenosynovitis
+Bursitis.disorders,0,0,0,0,727.2,Bursitis disorders
+Ganglion.and.cyst.of.synovium..tendon..and.bursa,0,0,0,0,727.4,"Ganglion and cyst of synovium, tendon, and bursa"
+Rupture.of.synovium,0,0,0,0,727.5,Rupture of synovium
+Rupture.of.tendon..nontraumatic,0,0,0,0,727.6,"Rupture of tendon, nontraumatic"
+Contracture.of.tendon..sheath.,0,0,0,0,727.7,Contracture of tendon (sheath)
+Plica.syndrome,0,0,0,0,727.8,Plica syndrome
+Disorders.of.muscle..ligament..and.fascia,0,0,0,0,728,"Disorders of muscle, ligament, and fascia"
+Muscular.calcification.and.ossification,0,0,0,0,728.1,Muscular calcification and ossification
+Laxity.of.ligament.or.hypermobility.syndrome,0,0,0,0,728.2,Laxity of ligament or hypermobility syndrome
+Fasciitis,1,0,2,3,728.7,Fasciitis
+Contracture.of.palmar.fascia..Dupuytren.s.disease.,0,0,0,0,728.71,Contracture of palmar fascia [Dupuytren's disease]
+Other.disorders.of.soft.tissues,0,1,0,1,729,Other disorders of soft tissues
+Rheumatism..unspecified.and.fibrositis,0,0,0,0,729.1,"Rheumatism, unspecified and fibrositis"
+Panniculitis,0,0,1,1,729.3,Panniculitis
+Nontraumatic.compartment.syndrome,0,0,0,0,729.7,Nontraumatic compartment syndrome
+Osteitis.deformans.and.osteopathies.associated.with.other.disorders.classified.elsewhere,0,1,1,2,731,Osteitis deformans and osteopathies associated with other disorders classified elsewhere
+Osteitis.deformans..Paget.s.disease.of.bone.,0,0,1,1,731.1,Osteitis deformans [Paget's disease of bone]
+Osteochondropathies,0,0,0,0,732,Osteochondropathies
+Juvenile.osteochondrosis,0,0,0,0,732.1,Juvenile osteochondrosis
+Osteochondritis.dissecans,0,0,0,0,732.7,Osteochondritis dissecans
+Other.disorders.of.bone.and.cartilage,0,1,1,2,733,Other disorders of bone and cartilage
+Cyst.of.bone,0,0,0,0,733.2,Cyst of bone
+Aseptic.necrosis.of.bone,1,0,0,1,733.4,Aseptic necrosis of bone
+Costochondritis,0,0,0,0,733.6,Costochondritis
+Malunion.and.nonunion.of.fracture,0,0,0,0,733.8,Malunion and nonunion of fracture
+Chondromalacia,0,0,0,0,733.9,Chondromalacia
+Acquired.foot.deformities,0,0,0,0,735,Acquired foot deformities
+Flat.foot,0,2,2,4,735.1,Flat foot
+Acquired.toe.deformities,0,0,0,0,735.2,Acquired toe deformities
+Hammer.toe..acquired.,0,0,1,1,735.21,Hammer toe (acquired)
+Claw.toe..acquired.,0,0,0,0,735.22,Claw toe (acquired)
+Hallux.rigidus,0,0,0,0,735.23,Hallux rigidus
+Hallux.valgus..Bunion.,0,1,1,2,735.3,Hallux valgus (Bunion)
+Other.acquired.deformities.of.limbs,0,0,0,0,736,Other acquired deformities of limbs
+Acquired.deformities.of.forearm,0,0,1,1,736.1,Acquired deformities of forearm
+Acquired.deformities.of.finger,0,0,0,0,736.2,Acquired deformities of finger
+Acquired.deformities.of.hip,0,0,0,0,736.3,Acquired deformities of hip
+Genu.valgum.or.varum..acquired.,0,0,0,0,736.4,Genu valgum or varum (acquired)
+Acquired.deformities.of.knee,0,0,0,0,736.5,Acquired deformities of knee
+Unequal.leg.length..acquired.,0,0,0,0,736.6,Unequal leg length (acquired)
+Curvature.of.spine,0,0,0,0,737,Curvature of spine
+Kyphosis..acquired.,0,0,1,1,737.1,Kyphosis (acquired)
+Lordosis..acquired.,0,0,0,0,737.2,Lordosis (acquired)
+Kyphoscoliosis.and.scoliosis,3,2,1,6,737.3,Kyphoscoliosis and scoliosis
+Other.acquired.musculoskeletal.deformity,0,2,0,2,738,Other acquired musculoskeletal deformity
+Acquired.spondylolisthesis,0,1,2,3,738.4,Acquired spondylolisthesis
+Contracture.of.joint,0,0,1,1,739,Contracture of joint
+Osteoarthrosis,2,0,0,2,740,Osteoarthrosis
+Osteoarthritis..localized,0,1,1,2,740.1,Osteoarthritis; localized
+Osteoarthrosis..localized..primary,2,3,2,7,740.11,"Osteoarthrosis, localized, primary"
+Osteoarthrosis..localized..secondary,0,0,0,0,740.12,"Osteoarthrosis, localized, secondary"
+Osteoarthrosis..generalized,3,3,3,9,740.2,"Osteoarthrosis, generalized"
+Osteoarthrosis.involving.more.than.one.site..but.not.specified.as.generalized,0,1,1,2,740.3,"Osteoarthrosis involving more than one site, but not specified as generalized"
+Osteoarthrosis.NOS,2,3,3,8,740.9,Osteoarthrosis NOS
+Symptoms.and.disorders.of.the.joints,2,1,1,4,741,Symptoms and disorders of the joints
+Ankylosis.of.joint,1,2,0,3,741.1,Ankylosis of joint
+Stiffness.of.joint,0,0,0,0,741.2,Stiffness of joint
+Difficulty.in.walking,2,3,0,5,741.3,Difficulty in walking
+Joint.effusions,2,2,2,6,741.4,Joint effusions
+Hemarthrosis,0,0,0,0,741.5,Hemarthrosis
+Villonodular.synovitis,0,0,0,0,741.6,Villonodular synovitis
+Derangement.of.joint..non.traumatic,0,0,0,0,742,"Derangement of joint, non-traumatic"
+Loose.body.in.joint,0,0,0,0,742.1,Loose body in joint
+Pathological..developmental.or.recurrent.dislocation,0,0,0,0,742.2,"Pathological, developmental or recurrent dislocation"
+Articular.cartilage.disorder,1,0,1,2,742.8,Articular cartilage disorder
+Other.derangement.of.joint,1,0,1,2,742.9,Other derangement of joint
+Osteoporosis..osteopenia.and.pathological.fracture,0,0,0,0,743,"Osteoporosis, osteopenia and pathological fracture"
+Osteoporosis,2,2,1,5,743.1,Osteoporosis
+Osteoporosis.NOS,3,3,3,9,743.11,Osteoporosis NOS
+Senile.osteoporosis,3,1,0,4,743.12,Senile osteoporosis
+Other.specified.osteoporosis,0,2,2,4,743.13,Other specified osteoporosis
+Pathologic.fracture,1,1,3,5,743.2,Pathologic fracture
+Pathologic.fracture.of.vertebrae,0,0,1,1,743.21,Pathologic fracture of vertebrae
+Pathologic.fracture.of.femur,0,0,1,1,743.22,Pathologic fracture of femur
+Stress.fracture,0,0,0,0,743.4,Stress fracture
+Osteopenia.or.other.disorder.of.bone.and.cartilage,2,2,3,7,743.9,Osteopenia or other disorder of bone and cartilage
+Pain.in.joint,2,3,3,8,745,Pain in joint
+Cardiac.and.circulatory.congenital.anomalies,0,0,0,0,747,Cardiac and circulatory congenital anomalies
+Cardiac.congenital.anomalies,0,0,1,1,747.1,Cardiac congenital anomalies
+Cardiac.shunt..heart.septal.defect,1,0,0,1,747.11,Cardiac shunt/ heart septal defect
+Valvular.heart.disease..heart.chambers,0,0,0,0,747.12,Valvular heart disease/ heart chambers
+Congenital.anomalies.of.great.vessels,3,3,3,9,747.13,Congenital anomalies of great vessels
+Congenital.anomalies.of.peripheral.vascular.system,0,0,0,0,747.2,Congenital anomalies of peripheral vascular system
+Anomalies.of.respiratory.system..congenital,0,0,0,0,748,"Anomalies of respiratory system, congenital"
+Congenital.anomalies.of.face.and.neck,0,0,0,0,749,Congenital anomalies of face and neck
+Cleft.palate,0,0,0,0,749.1,Cleft palate
+Congenital.anomalies.of.skull.and.face.bones,0,0,0,0,749.2,Congenital anomalies of skull and face bones
+Digestive.congenital.anomalies,0,0,0,0,750,Digestive congenital anomalies
+Upper.gastrointestinal.congenital.anomalies,0,0,0,0,750.1,Upper gastrointestinal congenital anomalies
+Esophageal.atresia.tracheoesophageal.fistula,0,1,2,3,750.11,Esophageal atresia/tracheoesophageal fistula
+Congenital.anomalies.of.mouth.tongue,0,0,0,0,750.13,Congenital anomalies of mouth/tongue
+Congenital.anomalies.of.esophagus,0,0,0,0,750.14,Congenital anomalies of esophagus
+Congenital.anomalies.of.stomach,0,0,0,0,750.15,Congenital anomalies of stomach
+Lower.gastrointestinal.congenital.anomalies,0,0,0,0,750.2,Lower gastrointestinal congenital anomalies
+Congenital.anomalies.of.intestine,0,0,0,0,750.21,Congenital anomalies of intestine
+Congenital.anomaly.of.gallbladder..bile.ducts..liver..pancreas,0,0,0,0,750.22,"Congenital anomaly of gallbladder, bile ducts, liver, pancreas"
+Congenital.hypertrophic.pyloric.stenosis,0,0,0,0,750.5,Congenital hypertrophic pyloric stenosis
+Congenital.anomalies.of.genital.organs,0,0,0,0,751.1,Congenital anomalies of genital organs
+Congenital.anomalies.of.female.genital.organs,0,0,0,0,751.11,Congenital anomalies of female genital organs
+Congenital.anomalies.of.male.genital.organs,0,0,0,0,751.12,Congenital anomalies of male genital organs
+Congenital.anomalies.of.urinary.system,0,0,0,0,751.2,Congenital anomalies of urinary system
+Cystic.kidney.disease,0,0,1,1,751.21,Cystic kidney disease
+Other.specified.congenital.anomalies.of.kidney,2,3,0,5,751.22,Other specified congenital anomalies of kidney
+Obstructive.genitourinary.defect,0,0,0,0,751.3,Obstructive genitourinary defect
+Nervous.system.congenital.anomalies,0,0,0,0,752,Nervous system congenital anomalies
+Neural.tube.defects,0,0,0,0,752.1,Neural tube defects
+Spina.bifida,0,0,0,0,752.11,Spina bifida
+Other.specified.congenital.anomalies.of.nervous.system,0,0,0,0,752.2,Other specified congenital anomalies of nervous system
+Congenital.anomalies.of.the.eye,0,0,0,0,753,Congenital anomalies of the eye
+Congenital.cataract.and.lens.anomalies,0,0,0,0,753.1,Congenital cataract and lens anomalies
+Congenital.anomalies.of.posterior.segment.of.eye,0,0,0,0,753.2,Congenital anomalies of posterior segment of eye
+Congenital.musculoskeletal.deformities.of.spine,0,0,0,0,754,Congenital musculoskeletal deformities of spine
+Lumbosacral.spondylolysis..congenital,0,0,0,0,754.1,"Lumbosacral spondylolysis, congenital"
+Spondylolisthesis..congenital,0,0,0,0,754.2,"Spondylolisthesis, congenital"
+Congenital.anomalies.of.limbs,0,0,0,0,755,Congenital anomalies of limbs
+Congenital.deformities.of.feet,0,0,0,0,755.1,Congenital deformities of feet
+Congenital.anomaly.of.fingers.toes,2,0,0,2,755.3,Congenital anomaly of fingers/toes
+Congenital.anomalies.of.upper.limb..including.shoulder.girdle,0,0,0,0,755.4,"Congenital anomalies of upper limb, including shoulder girdle"
+Other.congenital.anomalies.of.lower.limb..including.pelvic.girdle,0,0,0,0,755.6,"Other congenital anomalies of lower limb, including pelvic girdle"
+Congenital.hip.dysplasia.and.deformity,0,0,0,0,755.61,Congenital hip dysplasia and deformity
+Other.congenital.musculoskeletal.anomalies,0,0,0,0,756,Other congenital musculoskeletal anomalies
+Congenital.anomalies.of.abdominal.wall..diaphram,0,0,0,0,756.1,Congenital anomalies of abdominal wall; diaphram
+Pectus.and.other.congenital.anomalies.of.ribs.sternum,0,0,0,0,756.2,Pectus and other congenital anomalies of ribs/sternum
+Pectus.excavatum,0,0,0,0,756.21,Pectus excavatum
+Pectus.carinatum,0,0,0,0,756.22,Pectus carinatum
+Congenital.anomalies.of.muscle..tendon..fascia..and.connective.tissue,0,0,0,0,756.3,"Congenital anomalies of muscle, tendon, fascia, and connective tissue"
+Congenital.osteodystrophies,0,0,0,0,756.5,Congenital osteodystrophies
+Congenital.anomalies.of.the.integument,0,1,0,1,757,Congenital anomalies of the integument
+Chromosomal.anomalies.and.genetic.disorders,0,0,0,0,758,Chromosomal anomalies and genetic disorders
+Chromosomal.anomalies,0,0,0,0,758.1,Chromosomal anomalies
+Other.and.unspecified.congenital.anomalies,0,0,0,0,759,Other and unspecified congenital anomalies
+Anomalies.of.endocrine.glands..congenital,0,0,0,0,759.1,"Anomalies of endocrine glands, congenital"
+Back.pain,3,3,3,9,760,Back pain
+Cervicalgia,3,3,3,9,761,Cervicalgia
+Thoracic.or.lumbosacral.neuritis.or.radiculitis..unspecified,3,3,0,6,763,"Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+Sciatica,2,0,0,2,764,Sciatica
+Cervical.radiculitis,0,0,0,0,765,Cervical radiculitis
+Neuralgia..neuritis..and.radiculitis.NOS,1,2,0,3,766,"Neuralgia, neuritis, and radiculitis NOS"
+Cervicocranial.Cervicobrachial.syndrome,0,0,0,0,767,Cervicocranial/Cervicobrachial syndrome
+Nonallopathic.lesions.NEC,1,0,0,1,769,Nonallopathic lesions NEC
+Myalgia.and.myositis.unspecified,0,1,1,2,770,Myalgia and myositis unspecified
+Musculoskeletal.symptoms.referable.to.limbs,3,1,3,7,771,Musculoskeletal symptoms referable to limbs
+Swelling.of.limb,3,3,2,8,771.1,Swelling of limb
+Cramp.of.limb,0,1,0,1,771.2,Cramp of limb
+Symptoms.of.the.muscles,0,0,0,0,772,Symptoms of the muscles
+Muscular.wasting.and.disuse.atrophy,2,2,1,5,772.1,Muscular wasting and disuse atrophy
+Spasm.of.muscle,0,0,1,1,772.2,Spasm of muscle
+Muscle.weakness,0,0,3,3,772.3,Muscle weakness
+Rhabdomyolysis,0,2,3,5,772.4,Rhabdomyolysis
+Facial.weakness,0,1,1,2,772.6,Facial weakness
+Pain.in.limb,2,3,3,8,773,Pain in limb
+Hypothermia.Chills,1,2,2,5,780,Hypothermia/Chills
+Symptoms.involving.nervous.and.musculoskeletal.systems,2,3,3,8,781,Symptoms involving nervous and musculoskeletal systems
+Abnormal.posture,1,2,1,4,781.2,Abnormal posture
+Symptoms.involving.skin.and.other.integumentary.tissue,0,0,0,0,782,Symptoms involving skin and other integumentary tissue
+Edema,3,3,3,9,782.3,Edema
+Pallor.and.flushing,0,0,0,0,782.6,Pallor and flushing
+Fever.of.unknown.origin,3,3,1,7,783,Fever of unknown origin
+Postprocedural.fever,0,0,0,0,783.1,Postprocedural fever
+Abdominal.pain,2,3,3,8,785,Abdominal pain
+Syncope.and.collapse,2,3,3,8,788,Syncope and collapse
+Nausea.and.vomiting,2,3,3,8,789,Nausea and vomiting
+Persistent.vomiting,0,0,0,0,789.1,Persistent vomiting
+Nonspecific.findings.on.examination.of.blood,2,1,1,4,790,Nonspecific findings on examination of blood
+Elevated.sedimentation.rate,0,1,0,1,790.1,Elevated sedimentation rate
+Other.abnormal.blood.chemistry,2,1,1,4,790.6,Other abnormal blood chemistry
+Elevated.C.reactive.protein..CRP.,0,0,0,0,790.8,Elevated C-reactive protein (CRP)
+Abnormal.arterial.blood.gases,0,0,0,0,790.9,Abnormal arterial blood gases
+Gangrene,0,1,1,2,791,Gangrene
+Abnormal.Papanicolaou.smear.of.cervix.and.cervical.HPV,0,0,0,0,792,Abnormal Papanicolaou smear of cervix and cervical HPV
+Papanicolaou.smear.of.cervix.or.vagina.with.atypical.squamous.cells,0,0,0,0,792.1,Papanicolaou smear of cervix or vagina with atypical squamous cells
+Nonspecific.abnormal.findings.on.radiological.and.other.examination.of.musculoskeletal.system,2,1,2,5,793,Nonspecific abnormal findings on radiological and other examination of musculoskeletal system
+Nonspecific.abnormal.findings.on.radiological.and.other.examination.of.other.intrathoracic.organs..echocardiogram..etc.,3,2,1,6,793.2,"Nonspecific abnormal findings on radiological and other examination of other intrathoracic organs (echocardiogram, etc)"
+Abnormal.results.of.other.function.studies..bladder..pancreas..placenta..spleen..etc.,0,0,0,0,794,"Abnormal results of other function studies (bladder, pancreas, placenta, spleen, etc)"
+Other.and.nonspecific.abnormal.cytological..histological.and.immunological.findings,0,0,0,0,795,"Other and nonspecific abnormal cytological, histological and immunological findings"
+Elevated.carcinoembryonic.antigen..CEA.,0,0,0,0,795.81,Elevated carcinoembryonic antigen [CEA]
+Elevated.cancer.antigen.125..CA.125.,0,0,0,0,795.82,Elevated cancer antigen 125 [CA 125]
+Elevated.prostate.specific.antigen..PSA.,0,2,1,3,796,Elevated prostate specific antigen [PSA]
+Shock,3,3,0,6,797,Shock
+Cardiogenic.shock,3,1,0,4,797.1,Cardiogenic shock
+Malaise.and.fatigue,1,3,3,7,798,Malaise and fatigue
+Chronic.fatigue.syndrome,0,0,0,0,798.1,Chronic fatigue syndrome
+Fracture.of.lower.limb,0,0,0,0,800,Fracture of lower limb
+Fracture.of.neck.of.femur,0,1,3,4,800.1,Fracture of neck of femur
+Fracture.of.unspecified.part.of.femur,0,1,1,2,800.2,Fracture of unspecified part of femur
+Fracture.of.tibia.and.fibula,0,0,1,1,800.3,Fracture of tibia and fibula
+Fracture.of.patella,0,0,1,1,800.4,Fracture of patella
+Fracture.of.ankle.and.foot,0,0,1,1,801,Fracture of ankle and foot
+Fracture.of.foot,0,0,1,1,801.1,Fracture of foot
+Fracture.of.pelvis,0,0,3,3,802,Fracture of pelvis
+Fracture.of.upper.limb,0,0,0,0,803,Fracture of upper limb
+Fracture.of.humerus,0,0,1,1,803.1,Fracture of humerus
+Fracture.of.radius.and.ulna,0,3,1,4,803.2,Fracture of radius and ulna
+Colles..fracture,0,0,1,1,803.21,Colles' fracture
+Fracture.of.clavicle.or.scapula,0,0,1,1,803.3,Fracture of clavicle or scapula
+Fracture.of.hand.or.wrist,0,0,1,1,804,Fracture of hand or wrist
+Fracture.of.vertebral.column.without.mention.of.spinal.cord.injury,0,0,3,3,805,Fracture of vertebral column without mention of spinal cord injury
+Fracture.of.ribs,0,0,1,1,807,Fracture of ribs
+Fracture.of.unspecified.bones,2,0,1,3,809,Fracture of unspecified bones
+Cerebral.laceration.and.contusion,0,0,1,1,816,Cerebral laceration and contusion
+Concussion,0,1,2,3,817,Concussion
+Intracranial.hemorrhage..injury.,0,0,2,2,818,Intracranial hemorrhage (injury)
+Subdural.hemorrhage..injury.,0,0,1,1,818.1,Subdural hemorrhage (injury)
+Subarachnoid.hemorrhage..injury.,0,0,1,1,818.2,Subarachnoid hemorrhage (injury)
+Skull.and.face.fracture.and.other.intercranial.injury,2,0,1,3,819,Skull and face fracture and other intercranial injury
+Torus.fracture,0,0,0,0,823,Torus fracture
+Dislocation,0,2,0,2,830,Dislocation
+Internal.derangement.of.knee,0,0,0,0,835,Internal derangement of knee
+Traumatic.arthropathy,0,0,0,0,836,Traumatic arthropathy
+Sprains.and.strains,0,1,1,2,840,Sprains and strains
+Muscle.tendon.sprain,0,0,0,0,840.1,Muscle/tendon sprain
+Rotator.cuff..capsule..sprain,0,0,0,0,840.2,Rotator cuff (capsule) sprain
+Joint.ligament.sprain,0,0,0,0,840.3,Joint/ligament sprain
+Sprains.and.strains.of.back.and.neck,2,2,2,6,841,Sprains and strains of back and neck
+Other.sprains.and.strains,0,0,0,0,842,Other sprains and strains
+Hemorrhage.or.hematoma.complicating.a.procedure,3,1,3,7,850,Hemorrhage or hematoma complicating a procedure
+Complications.of.transplants.and.reattached.limbs,1,0,0,1,851,Complications of transplants and reattached limbs
+Complication.of.colostomy.or.enterostomy,0,0,1,1,853,Complication of colostomy or enterostomy
+Complications.of.cardiac.vascular.device..implant..and.graft,1,1,1,3,854,"Complications of cardiac/vascular device, implant, and graft"
+Complication.of.nervous.system.device..implant..and.graft,0,3,0,3,855,"Complication of nervous system device, implant, and graft"
+Vascular.complications.of.surgery.and.medical.procedures,0,0,1,1,856,Vascular complications of surgery and medical procedures
+Mechanical.complication.of.unspecified.genitourinary.device..implant..and.graft,0,0,1,1,857,"Mechanical complication of unspecified genitourinary device, implant, and graft"
+Complication.of.internal.orthopedic.device,0,0,1,1,858,Complication of internal orthopedic device
+Complication.due.to.other.implant.and.internal.device,0,0,1,1,859,Complication due to other implant and internal device
+Bone.marrow.or.stem.cell.transplant,0,0,0,0,860,Bone marrow or stem cell transplant
+Open.wounds.of.head..neck..and.trunk,0,3,3,6,870,Open wounds of head; neck; and trunk
+Open.wound.or.laceration.of.eye.or.eyelid,0,0,1,1,870.1,Open wound or laceration of eye or eyelid
+Open.wound.of.ear,0,0,0,0,870.2,Open wound of ear
+Other.open.wound.of.head.and.face,2,2,3,7,870.3,Other open wound of head and face
+Open.wound.of.nose.and.sinus,2,0,1,3,870.4,Open wound of nose and sinus
+Open.wound.of.lip.and.mouth,0,0,1,1,870.5,Open wound of lip and mouth
+Open.wound.of.neck,0,0,0,0,870.6,Open wound of neck
+Open.wound.of.genital.organs,0,0,0,0,870.8,Open wound of genital organs
+Open.wounds.of.extremities,2,1,1,4,871,Open wounds of extremities
+Open.wound.of.hand.except.finger.s.,0,0,1,1,871.1,Open wound of hand except finger(s)
+Open.wound.of.finger.s.,0,0,0,0,871.2,Open wound of finger(s)
+Open.wound.of.foot.except.toe.s..alone,0,1,1,2,871.3,Open wound of foot except toe(s) alone
+Open.wound.of.toe.s.,0,0,1,1,871.4,Open wound of toe(s)
+Traumatic.amputation,0,0,1,1,872,Traumatic amputation
+Broken.tooth,0,0,0,0,873,Broken tooth
+Complication.of.amputation.stump,0,0,1,1,874,Complication of amputation stump
+Non.healing.surgical.wound,0,0,1,1,875,Non-healing surgical wound
+Posttraumatic.wound.infection.not.elsewhere.classified,0,0,0,0,876,Posttraumatic wound infection not elsewhere classified
+Injuries.to.the.nervous.system,0,0,0,0,907,Injuries to the nervous system
+Superficial.injury..infected,0,0,0,0,910,"Superficial injury, infected"
+Blister,2,0,1,3,911,Blister
+Insect.bite,0,0,0,0,912,Insect bite
+Toxic.effect.of.venom,0,0,0,0,913,Toxic effect of venom
+Superficial.injury.without.mention.of.infection,1,1,3,5,915,Superficial injury without mention of infection
+Contusion,1,3,3,7,916,Contusion
+Allergic.reaction.to.food,0,0,0,0,930,Allergic reaction to food
+Contact.dermatitis.and.other.eczema.due.to.plants..except.food.,0,0,0,0,931,Contact dermatitis and other eczema due to plants [except food]
+Dermatitis.due.to.solar.radiation,0,0,0,0,938,Dermatitis due to solar radiation
+Acute.dermatitis.due.to.solar.radiation,0,0,0,0,938.1,Acute dermatitis due to solar radiation
+Chronic.dermatitis.due.to.solar.radiation,0,0,1,1,938.2,Chronic dermatitis due to solar radiation
+Atopic.contact.dermatitis.due.to.other.or.unspecified,2,3,2,7,939,Atopic/contact dermatitis due to other or unspecified
+Contact.and.allergic.dermatitis.of.eyelid,0,0,0,0,939.1,Contact and allergic dermatitis of eyelid
+Adverse.reaction.to.serum.or.vaccine,0,0,0,0,941,Adverse reaction to serum or vaccine
+Infusion.and.transfusion.reaction,0,0,1,1,942,Infusion and transfusion reaction
+Anaphylactic.shock.NOS,0,1,1,2,946,Anaphylactic shock NOS
+Urticaria,0,1,0,1,947,Urticaria
+Allergies..other,0,1,0,1,949,"Allergies, other"
+Diaper.or.napkin.rash,0,0,0,0,949.1,Diaper or napkin rash
+Spinal.cord.injury.without.evidence.of.spinal.bone.injury,0,0,1,1,952,Spinal cord injury without evidence of spinal bone injury
+Injury.to.other.and.unspecified.nerves,0,0,0,0,957,Injury to other and unspecified nerves
+Certain.early.complications.of.trauma.or.procedure,0,0,0,0,958,Certain early complications of trauma or procedure
+Postoperative.shock,0,0,1,1,958.1,Postoperative shock
+Traumatic.and.surgical.subcutaneous.emphysema,0,0,0,0,958.2,Traumatic and surgical subcutaneous emphysema
+Poisoning.by.antibiotics,0,0,0,0,960,Poisoning by antibiotics
+Adverse.effects.of.antibacterials..not.penicillins.,0,0,0,0,960.1,Adverse effects of antibacterials (not penicillins)
+Allergy.adverse.effect.of.penicillin,0,0,0,0,960.2,Allergy/adverse effect of penicillin
+Poisoning.by.other.anti.infectives,0,0,0,0,961,Poisoning by other anti-infectives
+Poisoning.by.hormones.and.synthetic.substitutes,0,0,0,0,962,Poisoning by hormones and synthetic substitutes
+Adrenal.cortical.steroids.causing.adverse.effects.in.therapeutic.use,0,0,0,0,962.1,Adrenal cortical steroids causing adverse effects in therapeutic use
+Insulins.and.antidiabetic.agents.causing.adverse.effects.in.therapeutic.use,0,0,1,1,962.2,Insulins and antidiabetic agents causing adverse effects in therapeutic use
+Hormones.and.synthetic.substitutes.causing.adverse.effects.in.therapeutic.use,0,0,1,1,962.3,Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Poisoning.by.primarily.systemic.agents,0,0,0,0,963,Poisoning by primarily systemic agents
+Antineoplastic.and.immunosuppressive.drugs.causing.adverse.effects,0,0,0,0,963.1,Antineoplastic and immunosuppressive drugs causing adverse effects
+Poisoning.by.agents.primarily.affecting.blood.constituents,0,0,0,0,964,Poisoning by agents primarily affecting blood constituents
+Anticoagulants.causing.adverse.effects,0,0,0,0,964.1,Anticoagulants causing adverse effects
+Poisoning.by.analgesics..antipyretics..and.antirheumatics,0,0,1,1,965,"Poisoning by analgesics, antipyretics, and antirheumatics"
+Opiates.and.related.narcotics.causing.adverse.effects.in.therapeutic.use,0,0,0,0,965.1,Opiates and related narcotics causing adverse effects in therapeutic use
+Antirheumatics.causing.adverse.effects.in.therapeutic.use,0,0,0,0,965.2,Antirheumatics causing adverse effects in therapeutic use
+Salicylates.causing.adverse.effects.in.therapeutic.use,0,0,0,0,965.3,Salicylates causing adverse effects in therapeutic use
+Poisoning.by.anticonvulsants.and.anti.Parkinsonism.drugs,0,0,1,1,966,Poisoning by anticonvulsants and anti-Parkinsonism drugs
+Adverse.effects.of.sedatives.or.other.central.nervous.system.depressants.and.anesthetics,0,0,0,0,967,Adverse effects of sedatives or other central nervous system depressants and anesthetics
+Poisoning.by.psychotropic.agents,0,2,3,5,969,Poisoning by psychotropic agents
+Poisoning.by.drugs.primarily.affecting.the.autonomic.nervous.system,0,0,0,0,971,Poisoning by drugs primarily affecting the autonomic nervous system
+Poisoning.by.agents.primarily.affecting.the.cardiovascular.system,0,0,1,1,972,Poisoning by agents primarily affecting the cardiovascular system
+Cardiac.rhythm.regulators.causing.adverse.effects.in.therapeutic.use,0,0,0,0,972.1,Cardiac rhythm regulators causing adverse effects in therapeutic use
+Antilipemic.and.antiarteriosclerotic.drugs.causing.adverse.effects.in.therapeutic.use,0,0,0,0,972.2,Antilipemic and antiarteriosclerotic drugs causing adverse effects in therapeutic use
+Antihypertensive.agents.causing.adverse.effects,0,0,0,0,972.6,Antihypertensive agents causing adverse effects
+Poisoning.by.agents.primarily.affecting.the.gastrointestinal.system,0,0,0,0,973,Poisoning by agents primarily affecting the gastrointestinal system
+Poisoning.by.water..mineral..and.uric.acid.metabolism.drugs,2,0,1,3,974,"Poisoning by water, mineral, and uric acid metabolism drugs"
+Poisoning.by.agents.primarily.acting.on.the.smooth.and.skeletal.muscles.and.respiratory.system,0,0,0,0,975,Poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system
+Poisoning.by.agents.primarily.affecting.skin...mucous.membrane..ophthalmological..otorhinolaryngological....dental.drugs,0,0,0,0,976,"Poisoning by agents primarily affecting skin & mucous membrane, ophthalmological, otorhinolaryngological, & dental drugs"
+Adverse.drug.events.and.drug.allergies,0,0,1,1,979,Adverse drug events and drug allergies
+Toxic.effect.of..non.ethyl..alcohol.and.petroleum.and.other.solvents,0,0,0,0,981,Toxic effect of (non-ethyl) alcohol and petroleum and other solvents
+Toxic.effect.of.corrosive.aromatics..acids..and.caustic.alkalis,0,0,0,0,983,"Toxic effect of corrosive aromatics, acids, and caustic alkalis"
+Toxic.effect.of.lead.and.its.compounds..including.fumes.,0,0,0,0,984,Toxic effect of lead and its compounds (including fumes)
+Toxic.effect.of.other.metals,0,0,0,0,985,Toxic effect of other metals
+Toxic.effect.of.carbon.monoxide,0,0,0,0,986,Toxic effect of carbon monoxide
+Toxic.effect.of.other.gases..fumes..or.vapors,0,0,0,0,987,"Toxic effect of other gases, fumes, or vapors"
+Toxic.effect.of.noxious.substances.eaten.as.food,0,0,0,0,988,Toxic effect of noxious substances eaten as food
+Toxic.effect.of.other.substances..chiefly.nonmedicinal.as.to.source,0,0,0,0,989,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+Effects.radiation.NOS,2,2,0,4,990,Effects radiation NOS
+Systemic.inflammatory.response.syndrome..SIRS.,0,1,1,2,994.1,Systemic inflammatory response syndrome (SIRS)
+Sepsis,3,3,2,8,994.2,Sepsis
+Septic.shock,3,1,3,7,994.21,Septic shock
+Burns,0,0,0,0,1000,Burns
+Foreign.body.injury,0,0,1,1,1001,Foreign body injury
+Symptoms.concerning.nutrition..metabolism..and.development,3,3,3,9,1002,"Symptoms concerning nutrition, metabolism, and development"
+Other.signs.and.symptoms.involving.emotional.state,0,0,1,1,1004,Other signs and symptoms involving emotional state
+Other.symptoms,1,3,3,7,1005,Other symptoms
+Crushing.injury,0,0,0,0,1006,Crushing injury
+Injury.to.blood.vessels,0,0,0,0,1007,Injury to blood vessels
+Crushing.or.internal.injury.to.organs,0,0,1,1,1008,Crushing or internal injury to organs
+Injury..NOS,2,3,3,8,1009,"Injury, NOS"
+Other.tests,0,1,3,4,1010,Other tests
+Complications.of.surgical.and.medical.procedures,1,3,1,5,1011,Complications of surgical and medical procedures
+Late.effect,0,0,1,1,1012,Late effect
+Effects.of.heat..cold.and.air.pressure,0,0,0,0,1014,"Effects of heat, cold and air pressure"
+Effects.of.other.external.causes,0,0,1,1,1015,Effects of other external causes
+Other.ill.defined.and.unknown.causes.of.morbidity.and.mortality,0,1,3,4,1019,Other ill-defined and unknown causes of morbidity and mortality
+ambulatory_visit,3,3,3,9,NA,NA
+chemo,3,3,3,9,NA,NA
+emergency_visit,3,3,3,9,NA,NA
+Hispanic,0,0,3,3,NA,NA
+hypertension,3,3,3,9,NA,NA
+inpatient_visit,3,3,3,9,NA,NA
+Male,3,3,3,9,NA,NA
+Race_Asian,1,3,3,7,NA,NA
+Race_Black,3,3,3,9,NA,NA
+Race_Other,2,2,1,5,NA,NA
+Race_White,2,2,3,7,NA,NA
+X,3,3,3,9,NA,NA
