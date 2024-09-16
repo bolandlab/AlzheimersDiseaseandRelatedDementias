@@ -1,0 +1,60 @@
+﻿feature,PheCode,Phenotype
+Fracture.of.lower.limb,800,Fracture of lower limb
+Fracture.of.neck.of.femur,800.1,Fracture of neck of femur
+Fracture.of.unspecified.part.of.femur,800.2,Fracture of unspecified part of femur
+Fracture.of.tibia.and.fibula,800.3,Fracture of tibia and fibula
+Fracture.of.patella,800.4,Fracture of patella
+Fracture.of.ankle.and.foot,801,Fracture of ankle and foot
+Fracture.of.foot,801.1,Fracture of foot
+Fracture.of.pelvis,802,Fracture of pelvis
+Fracture.of.upper.limb,803,Fracture of upper limb
+Fracture.of.humerus,803.1,Fracture of humerus
+Fracture.of.radius.and.ulna,803.2,Fracture of radius and ulna
+Colles..fracture,803.21,Colles' fracture
+Fracture.of.clavicle.or.scapula,803.3,Fracture of clavicle or scapula
+Fracture.of.hand.or.wrist,804,Fracture of hand or wrist
+Fracture.of.vertebral.column.without.mention.of.spinal.cord.injury,805,Fracture of vertebral column without mention of spinal cord injury
+Fracture.of.ribs,807,Fracture of ribs
+Fracture.of.unspecified.bones,809,Fracture of unspecified bones
+Cerebral.laceration.and.contusion,816,Cerebral laceration and contusion
+Concussion,817,Concussion
+Intracranial.hemorrhage..injury.,818,Intracranial hemorrhage (injury)
+Subdural.hemorrhage..injury.,818.1,Subdural hemorrhage (injury)
+Subarachnoid.hemorrhage..injury.,818.2,Subarachnoid hemorrhage (injury)
+Skull.and.face.fracture.and.other.intercranial.injury,819,Skull and face fracture and other intercranial injury
+Torus.fracture,823,Torus fracture
+Dislocation,830,Dislocation
+Internal.derangement.of.knee,835,Internal derangement of knee
+Traumatic.arthropathy,836,Traumatic arthropathy
+Sprains.and.strains,840,Sprains and strains
+Muscle.tendon.sprain,840.1,Muscle/tendon sprain
+Rotator.cuff..capsule..sprain,840.2,Rotator cuff (capsule) sprain
+Joint.ligament.sprain,840.3,Joint/ligament sprain
+Sprains.and.strains.of.back.and.neck,841,Sprains and strains of back and neck
+Other.sprains.and.strains,842,Other sprains and strains
+Open.wounds.of.head..neck..and.trunk,870,Open wounds of head; neck; and trunk
+Open.wound.or.laceration.of.eye.or.eyelid,870.1,Open wound or laceration of eye or eyelid
+Open.wound.of.ear,870.2,Open wound of ear
+Other.open.wound.of.head.and.face,870.3,Other open wound of head and face
+Open.wound.of.nose.and.sinus,870.4,Open wound of nose and sinus
+Open.wound.of.lip.and.mouth,870.5,Open wound of lip and mouth
+Open.wound.of.neck,870.6,Open wound of neck
+Open.wound.of.genital.organs,870.8,Open wound of genital organs
+Open.wounds.of.extremities,871,Open wounds of extremities
+Open.wound.of.hand.except.finger.s.,871.1,Open wound of hand except finger(s)
+Open.wound.of.finger.s.,871.2,Open wound of finger(s)
+Open.wound.of.foot.except.toe.s..alone,871.3,Open wound of foot except toe(s) alone
+Open.wound.of.toe.s.,871.4,Open wound of toe(s)
+Traumatic.amputation,872,Traumatic amputation
+Posttraumatic.wound.infection.not.elsewhere.classified,876,Posttraumatic wound infection not elsewhere classified
+Injuries.to.the.nervous.system,907,Injuries to the nervous system
+Superficial.injury..infected,910,"Superficial injury, infected"
+Superficial.injury.without.mention.of.infection,915,Superficial injury without mention of infection
+Contusion,916,Contusion
+Spinal.cord.injury.without.evidence.of.spinal.bone.injury,952,Spinal cord injury without evidence of spinal bone injury
+Injury.to.other.and.unspecified.nerves,957,Injury to other and unspecified nerves
+Certain.early.complications.of.trauma.or.procedure,958,Certain early complications of trauma or procedure
+Foreign.body.injury,1001,Foreign body injury
+Crushing.injury,1006,Crushing injury
+Crushing.or.internal.injury.to.organs,1008,Crushing or internal injury to organs
+Injury..NOS,1009,"Injury, NOS"
